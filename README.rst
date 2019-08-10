@@ -85,9 +85,22 @@ Si no tiene permisos de *root* contacte con su administrador de sistemas operati
 
         apt install fail2ban
 
-* Como **root**: instalar los paquetes de desarrollo usados por :yuneta:`Yuneta`::
+* Como **root**: en Debian o similares, instalar los paquetes de desarrollo usados por :yuneta:`Yuneta`::
 
-    apt -y install autotools-dev automake autogen libtool debmake cmake gettext mercurial git psmisc liblzma-dev libpcre3-dev libcurl4-openssl-dev libssl-dev libldap2-dev libidn11-dev libidn2-0-dev librtmp-dev libprocps-dev;
+    apt -y install autotools-dev automake autogen libtool debmake cmake gettext mercurial git psmisc liblzma-dev libpcre3-dev libcurl4-openssl-dev libssl-dev libldap2-dev libidn11-dev libidn2-0-dev librtmp-dev libprocps-dev uuid-dev;
+
+* En Centos o similar::
+
+    # sudo usermod -aG wheel yuneta # wheel group has sudo privileges
+
+    sudo yum group install "Development Tools"
+    sudo yum install pcre-devel zlib-devel uuid-devel
+
+    # see https://www.howtoforge.com/tutorial/how-to-install-fail2ban-on-centos/
+    sudo yum install epel-release
+    yum install fail2ban fail2ban-systemd
+
+    sudo yum install xz-devel centos-release-scl
 
 * A partir de aquí, los comandos hay que ejecutarlos como usuario **yuneta** ::
 
