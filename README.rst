@@ -19,8 +19,11 @@
 
 .. role:: large
 
-Instalación del framework de desarrollo :yuneta:`Yuneta`
-========================================================
+Instalación de :yuneta:`Yuneta`
+===============================
+
+Introducción
+------------
 
 Los :node:`nodos` de Yuneta pueden clasificarse en:
 
@@ -46,8 +49,8 @@ Es aconsejable que el directorio ``/yuneta`` disponga de su propia partición.
 
 El directorio ``/yuneta`` y todos sus subdirectorios deben pertener al usuario y grupo **yuneta**.
 
-Instalación de un :node-dev:`Nodo de desarrollo`
-================================================
+:node-dev:`Nodo de desarrollo`
+------------------------------
 
 Ejemplo de instalación en un nodo con **Debian 9.5** teniendo permisos de *root*.
 
@@ -218,8 +221,8 @@ Por comodidad para ejecutar los comandos de :yuneta:`Yuneta` añade a la variabl
     /yuneta/development/output/yunos
 
 
-Instalación de un :node-job:`Nodo de trabajo`
-=============================================
+:node-job:`Nodo de trabajo`
+---------------------------
 
 Para crear un :node-job:`nodo de trabajo` de :yuneta:`Yuneta`:
 
