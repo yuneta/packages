@@ -124,39 +124,39 @@ Si no tiene permisos de *root* contacte con su administrador de sistemas operati
 
     * Instalación de **GObj-ecosistema** ::
 
-        git clone git@github.com:gobj-ecosistema/external-libs /yuneta/development/yuneta/^gobj-ecosistema/external-libs
-        git clone git@github.com:gobj-ecosistema/ghelpers /yuneta/development/yuneta/^gobj-ecosistema/ghelpers
-        git clone git@github.com:gobj-ecosistema/ginsfsm /yuneta/development/yuneta/^gobj-ecosistema/ginsfsm
-        git clone git@github.com:gobj-ecosistema/tests-g /yuneta/development/yuneta/^gobj-ecosistema/tests-g
-        git clone git@github.com:gobj-ecosistema/stats /yuneta/development/yuneta/^gobj-ecosistema/stats
-        git clone git@github.com:gobj-ecosistema/timeranger /yuneta/development/yuneta/^gobj-ecosistema/timeranger
-        git clone git@github.com:gobj-ecosistema/ytls /yuneta/development/yuneta/^gobj-ecosistema/ytls
+        git clone https://github.com/gobj-ecosistema/external-libs.git /yuneta/development/yuneta/^gobj-ecosistema/external-libs
+        git clone https://github.com/gobj-ecosistema/ghelpers.git /yuneta/development/yuneta/^gobj-ecosistema/ghelpers
+        git clone https://github.com/gobj-ecosistema/ginsfsm.git /yuneta/development/yuneta/^gobj-ecosistema/ginsfsm
+        git clone https://github.com/gobj-ecosistema/tests-g.git /yuneta/development/yuneta/^gobj-ecosistema/tests-g
+        git clone https://github.com/gobj-ecosistema/stats.git /yuneta/development/yuneta/^gobj-ecosistema/stats
+        git clone https://github.com/gobj-ecosistema/timeranger.git /yuneta/development/yuneta/^gobj-ecosistema/timeranger
+        git clone https://github.com/gobj-ecosistema/ytls.git /yuneta/development/yuneta/^gobj-ecosistema/ytls
 
     * Instalación de **Yuneta** ::
 
-        git clone git@github.com:gobj-ecosistema/c-core /yuneta/development/yuneta/^yuneta/c-core
-        git clone git@github.com:gobj-ecosistema/c-rc_sqlite /yuneta/development/yuneta/^yuneta/c-rc_sqlite
-        git clone git@github.com:gobj-ecosistema/js-core /yuneta/development/yuneta/^yuneta/js-core
-        git clone git@github.com:gobj-ecosistema/c-tls /yuneta/development/yuneta/^yuneta/c-tls
-        git clone git@github.com:gobj-ecosistema/packages /yuneta/development/yuneta/^yuneta/packages
-        git clone git@github.com:gobj-ecosistema/tests-y /yuneta/development/yuneta/^yuneta/tests-y
-        git clone git@github.com:gobj-ecosistema/web-skeleton3 /yuneta/development/yuneta/^yuneta/web-skeleton3
-        git clone git@github.com:gobj-ecosistema/ybatch /yuneta/development/yuneta/^yuneta/ybatch
-        git clone git@github.com:gobj-ecosistema/ycommand /yuneta/development/yuneta/^yuneta/ycommand
-        git clone git@github.com:gobj-ecosistema/ylist /yuneta/development/yuneta/^yuneta/ylist
-        git clone git@github.com:gobj-ecosistema/yshutdown /yuneta/development/yuneta/^yuneta/yshutdown
-        git clone git@github.com:gobj-ecosistema/ystats /yuneta/development/yuneta/^yuneta/ystats
-        git clone git@github.com:gobj-ecosistema/ytestconfig /yuneta/development/yuneta/^yuneta/ytestconfig
-        git clone git@github.com:gobj-ecosistema/yuno_agent /yuneta/development/yuneta/^yuneta/yuno_agent
-        git clone git@github.com:gobj-ecosistema/yuno_cli /yuneta/development/yuneta/^yuneta/yuno_cli
-        git clone git@github.com:gobj-ecosistema/yuno-skeleton /yuneta/development/yuneta/^yuneta/yuno-skeleton
+        git clone https://github.com/yuneta/c-core /yuneta/development/yuneta/^yuneta/c-core
+        git clone https://github.com/yuneta/c-rc_sqlite /yuneta/development/yuneta/^yuneta/c-rc_sqlite
+        git clone https://github.com/yuneta/js-core /yuneta/development/yuneta/^yuneta/js-core
+        git clone https://github.com/yuneta/c-tls /yuneta/development/yuneta/^yuneta/c-tls
+        git clone https://github.com/yuneta/packages /yuneta/development/yuneta/^yuneta/packages
+        git clone https://github.com/yuneta/tests-y /yuneta/development/yuneta/^yuneta/tests-y
+        git clone https://github.com/yuneta/web-skeleton3 /yuneta/development/yuneta/^yuneta/web-skeleton3
+        git clone https://github.com/yuneta/ybatch /yuneta/development/yuneta/^yuneta/ybatch
+        git clone https://github.com/yuneta/ycommand /yuneta/development/yuneta/^yuneta/ycommand
+        git clone https://github.com/yuneta/ylist /yuneta/development/yuneta/^yuneta/ylist
+        git clone https://github.com/yuneta/yshutdown /yuneta/development/yuneta/^yuneta/yshutdown
+        git clone https://github.com/yuneta/ystats /yuneta/development/yuneta/^yuneta/ystats
+        git clone https://github.com/yuneta/ytestconfig /yuneta/development/yuneta/^yuneta/ytestconfig
+        git clone https://github.com/yuneta/yuno_agent /yuneta/development/yuneta/^yuneta/yuno_agent
+        git clone https://github.com/yuneta/yuno_cli /yuneta/development/yuneta/^yuneta/yuno_cli
+        git clone https://github.com/yuneta/yuno-skeleton /yuneta/development/yuneta/^yuneta/yuno-skeleton
 
     * Instalación de **Yuno-store** ::
 
-        git clone git@github.com:gobj-ecosistema/emailsender /yuneta/development/yuneta/^yunos/emailsender
-        git clone git@github.com:gobj-ecosistema/emu_device /yuneta/development/yuneta/^yunos/emu_device
-        git clone git@github.com:gobj-ecosistema/logcenter /yuneta/development/yuneta/^yunos/logcenter
-        git clone git@github.com:gobj-ecosistema/watchfs /yuneta/development/yuneta/^yunos/watchfs
+        git clone https://github.com/yuno-store/emailsender /yuneta/development/yuneta/^yunos/emailsender
+        git clone https://github.com/yuno-store/emu_device /yuneta/development/yuneta/^yunos/emu_device
+        git clone https://github.com/yuno-store/logcenter /yuneta/development/yuneta/^yunos/logcenter
+        git clone https://github.com/yuno-store/watchfs /yuneta/development/yuneta/^yunos/watchfs
 
 * Si quieres directorios compartidos para el grupo
   (derecho de escritura para todos los usuarios del grupo *yuneta*) ::
