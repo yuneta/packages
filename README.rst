@@ -225,6 +225,10 @@ Por comodidad para ejecutar los comandos de :yuneta:`Yuneta` añade a la variabl
 :node-job:`Nodo de trabajo`
 ---------------------------
 
+Un :node-job:`nodo de trabajo` o de carga es aquel que solo contiene **binarios** de Yuneta,
+que se deberán desplegar desde un :node-dev:`Nodo de desarrollo`,
+que es quien los genera para la plataforma adecuada.
+
 Para crear un :node-job:`nodo de trabajo` de :yuneta:`Yuneta`:
 
     * Crea el :run-time:`run-time` del :agent:`Agente` adecuado al dispositivo.
@@ -251,11 +255,60 @@ Para crear un :node-job:`nodo de trabajo` de :yuneta:`Yuneta`:
 Actualización de :yuneta:`Yuneta`
 =================================
 
-Para actualizar :yuneta:`Yuneta` de github podemos usar el script::
+Para actualizar el código fuente de :yuneta:`Yuneta`
+con la última versión en github podemos usar el script::
 
     /yuneta/development/yuneta/yuneta-pull-from-github.sh
 
     ó
 
     /yuneta/development/yuneta/^yuneta/packages/yuneta-pull-from-github.sh
+
+El contenido del script es::
+
+    #!/bin/bash
+    DIRECTORY="/yuneta/development/yuneta"
+
+    if [ ! -d "$DIRECTORY" ];
+    then
+        echo "No existe el directorio '$DIRECTORY'"
+        exit
+    fi
+
+    cd $DIRECTORY
+
+    for d in */
+    do
+        if [[ $d =~ \^.* ]]
+        then
+            # group of projects
+            GPROJECT="${d%/}"
+            echo "^===>" $GPROJECT
+            cd $GPROJECT
+            GPROJECT=${GPROJECT:1}
+            for s in */
+            do
+                # single project
+                PROJECT="${s%/}"
+                if [ "$PROJECT" == "build" ]; then
+                    continue
+                fi
+                #echo "    ===>" $PROJECT
+                cd $PROJECT
+                git pull
+                cd ..
+            done
+            cd ..
+        else
+            PROJECT="${d%/}"
+            if [ "$PROJECT" == "build" ]; then
+                continue
+            fi
+            #PROJECT="${s%/}"
+            echo " ===>" $PROJECT
+            cd $PROJECT
+            git pull
+            cd ..
+        fi
+    done
 
