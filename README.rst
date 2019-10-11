@@ -175,6 +175,7 @@ Para facilitar la compilación decomprime este fichero que contiene varios CMake
 
     cp -a /yuneta/development/yuneta/^yuneta/packages/yuneta/* /yuneta/development/yuneta
     cp -a /yuneta/development/yuneta/^yuneta/packages/recompila.sh /yuneta/development/yuneta
+    cp -a /yuneta/development/yuneta/^yuneta/packages/yuneta-pull-from-github.sh /yuneta/development/yuneta
 
 Y ahora ya puedes compilarlo todo (OJO, puede durar bastante tiempo) ::
 
@@ -246,4 +247,15 @@ Para crear un :node-job:`nodo de trabajo` de :yuneta:`Yuneta`:
         scp yuneta-agent-3.2.0-1-amd64.deb yuneta@nodo100:
         ssh yuneta@nodo100
         sudo apt install ./yuneta-agent-3.2.0-1-amd64.deb
+
+Actualización de :yuneta:`Yuneta`
+=================================
+
+Para actualizar :yuneta:`Yuneta` de github podemos usar el script::
+
+    /yuneta/development/yuneta/yuneta-pull-from-github.sh
+
+    ó
+
+    /yuneta/development/yuneta/^yuneta/packages/yuneta-pull-from-github.sh
 
