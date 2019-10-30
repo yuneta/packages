@@ -175,6 +175,7 @@ Para facilitar la compilación decomprime este fichero que contiene varios CMake
 
     cp -a /yuneta/development/yuneta/^yuneta/packages/yuneta/* /yuneta/development/yuneta
     cp -a /yuneta/development/yuneta/^yuneta/packages/recompila.sh /yuneta/development/yuneta
+    cp -a /yuneta/development/yuneta/^yuneta/packages/compila.sh /yuneta/development/yuneta
     cp -a /yuneta/development/yuneta/^yuneta/packages/yuneta-pull-from-github.sh /yuneta/development/yuneta
 
 Y ahora ya puedes compilarlo todo (OJO, puede durar bastante tiempo) ::
@@ -182,6 +183,10 @@ Y ahora ya puedes compilarlo todo (OJO, puede durar bastante tiempo) ::
     cd /yuneta/development/yuneta
     ./recompila.sh
 
+Para compilar sin las librerias externas::
+
+    cd /yuneta/development/yuneta
+    ./compila.sh
 
 Instalación del :agent:`Agente`
 -------------------------------
