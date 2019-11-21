@@ -97,13 +97,17 @@ Si no tiene permisos de *root* contacte con su administrador de sistemas operati
     # sudo usermod -aG wheel yuneta # wheel group has sudo privileges
 
     sudo yum group install "Development Tools"
-    sudo yum install pcre-devel zlib-devel libuuid-devel
+    sudo yum install pcre-devel zlib-devel libuuid-devel psmisc
 
     # see https://www.howtoforge.com/tutorial/how-to-install-fail2ban-on-centos/
     sudo yum install epel-release
     yum install fail2ban fail2ban-systemd
 
     sudo yum install xz-devel centos-release-scl
+
+.. warning::
+
+    A partir de aquí, los comandos hay que ejecutarlos como usuario **yuneta**.
 
 * A partir de aquí, los comandos hay que ejecutarlos como usuario **yuneta** ::
 
