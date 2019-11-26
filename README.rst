@@ -19,6 +19,8 @@
 
 .. role:: large
 
+.. _Instalacion Yuneta:
+
 Instalación de :yuneta:`Yuneta`
 ===============================
 
