@@ -21,8 +21,8 @@
 
 .. _Instalacion Yuneta:
 
-Instalación de :yuneta:`Yuneta`
-===============================
+Instalación
+===========
 
 Introducción
 ------------
@@ -263,8 +263,8 @@ Para crear un :node-job:`nodo de trabajo` de :yuneta:`Yuneta`:
         ssh yuneta@nodo100
         sudo apt install ./yuneta-agent-3.2.0-1-amd64.deb
 
-Actualización de :yuneta:`Yuneta`
-=================================
+Actualización
+-------------
 
 Para actualizar el código fuente de :yuneta:`Yuneta`
 con la última versión en github podemos usar el script::
