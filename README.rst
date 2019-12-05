@@ -75,7 +75,7 @@ Si no tiene permisos de *root* contacte con su administrador de sistemas operati
     mkdir /yuneta
     chown yuneta:yuneta /yuneta
 
-* Como **root**: ACONSEJABLE, mejorar la seguridad de acceso ssh:
+* Como **root**: **OPCIONAL**, mejorar la seguridad de acceso ssh:
 
     Editar el fichero ``/etc/ssh/sshd_config`` para restringir el acceso como root::
 
