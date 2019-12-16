@@ -33,8 +33,6 @@ Los :node:`nodos` de Yuneta pueden clasificarse en:
         - Contiene el código fuente de los proyectos y del framework Yuneta.
         - Es la factoria de :yuno:`yunos`, es decir, de los binarios y sus configuraciones iniciales,
           que acabarán desplegados en los :node-job:`Nodo de trabajo`.
-        - Es aconsejable tener un :node-dev:`nodo de desarrollo`
-          por cada tipo de procesador (x86_64, Arm, ...) y por cada tipo distribución de Linux (Debian, CentOs, ...) para proporcionar los binarios correctos a cada sistema.
 
     * :node-job:`Nodo de trabajo`
         - Realiza la carga de trabajo. Contiene los binarios y sus configuraciones (:yuno:`yunos`).
@@ -53,6 +51,12 @@ El directorio ``/yuneta`` y todos sus subdirectorios deben pertener al usuario y
 
 :node-dev:`Nodo de desarrollo`
 ------------------------------
+
+Puedes instalar yuneta con estos scripts:
+
+:download:`install-yuneta-dependencies <_static/install-yuneta-dependencies.sh>`.
+
+:download:`install-yuneta-packages <_static/install-yuneta-packages.sh>`.
 
 Ejemplo de instalación en un nodo con **Debian 9.5** teniendo permisos de *root*.
 
@@ -98,11 +102,11 @@ Si no tiene permisos de *root* contacte con su administrador de sistemas operati
 
     # sudo usermod -aG wheel yuneta # wheel group has sudo privileges
 
-    sudo yum group install "Development Tools"
-    sudo yum install pcre-devel zlib-devel zlib-static libuuid-devel psmisc xz-devel centos-release-scl libarchive-devel
+    yum group install "Development Tools"
+    yum install pcre-devel zlib-devel zlib-static libuuid-devel psmisc xz-devel centos-release-scl libarchive-devel
 
     # see https://www.howtoforge.com/tutorial/how-to-install-fail2ban-on-centos/
-    sudo yum install epel-release
+    yum install epel-release
     yum install fail2ban fail2ban-systemd
 
 .. warning::
@@ -122,12 +126,12 @@ Si no tiene permisos de *root* contacte con su administrador de sistemas operati
 
     * Crea los directorios básicos ::
 
-        mkdir /yuneta/bin
-        mkdir /yuneta/agent
-        mkdir /yuneta/development
-        mkdir /yuneta/development/yuneta
-        mkdir /yuneta/development/projects
-        mkdir /yuneta/development/output
+        mkdir -p /yuneta/bin
+        mkdir -p /yuneta/agent
+        mkdir -p /yuneta/development
+        mkdir -p /yuneta/development/yuneta
+        mkdir -p /yuneta/development/projects
+        mkdir -p /yuneta/development/output
 
     * Instalación de **GObj-ecosistema** ::
 
