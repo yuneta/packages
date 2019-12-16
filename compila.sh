@@ -7,22 +7,22 @@ set -e
 #       gobj-ecosistema
 ##########################################
 cd /yuneta/development/yuneta/^gobj-ecosistema/ghelpers
-rm -r build; mkdir build
+rm -rf build; mkdir build
 cd build; cmake -DCMAKE_BUILD_TYPE=Debug ..
 make install
 
 cd /yuneta/development/yuneta/^gobj-ecosistema/timeranger
-rm -r build; mkdir build
+rm -rf build; mkdir build
 cd build; cmake -DCMAKE_BUILD_TYPE=Debug ..
 make install
 
 cd /yuneta/development/yuneta/^gobj-ecosistema/ytls
-rm -r build; mkdir build
+rm -rf build; mkdir build
 cd build; cmake -DCMAKE_BUILD_TYPE=Debug ..
 make install
 
 cd /yuneta/development/yuneta/^gobj-ecosistema/ginsfsm
-rm -r build; mkdir build
+rm -rf build; mkdir build
 cd build; cmake -DCMAKE_BUILD_TYPE=Debug ..
 make install
 
@@ -31,17 +31,17 @@ make install
 #       yuneta
 ##########################################
 cd /yuneta/development/yuneta/^yuneta/c-core
-rm -r build; mkdir build
+rm -rf build; mkdir build
 cd build; cmake -DCMAKE_BUILD_TYPE=Debug ..
 make install
 
 cd /yuneta/development/yuneta/^yuneta/c-tls
-rm -r build; mkdir build
+rm -rf build; mkdir build
 cd build; cmake -DCMAKE_BUILD_TYPE=Debug ..
 make install
 
 cd /yuneta/development/yuneta/^yuneta/c-rc_sqlite
-rm -r build; mkdir build
+rm -rf build; mkdir build
 cd build; cmake -DCMAKE_BUILD_TYPE=Debug ..
 make install
 
@@ -50,7 +50,7 @@ make install
 #       yunos
 ##########################################
 cd /yuneta/development/yuneta/^yunos
-rm -r build; mkdir build
+rm -rf build; mkdir build
 cd build; cmake -DCMAKE_BUILD_TYPE=Debug ..
 make install
 
@@ -58,12 +58,12 @@ make install
 #       tests
 ##########################################
 cd /yuneta/development/yuneta/^gobj-ecosistema/tests-g
-rm -r build; mkdir build
+rm -rf build; mkdir build
 cd build; cmake -DCMAKE_BUILD_TYPE=Debug ..
 make install
 
 cd /yuneta/development/yuneta/^yuneta/tests-y
-rm -r build; mkdir build
+rm -rf build; mkdir build
 cd build; cmake -DCMAKE_BUILD_TYPE=Debug ..
 make install
 
@@ -71,6 +71,6 @@ make install
 #       all
 ##########################################
 cd /yuneta/development/yuneta
-rm -r build; mkdir build
+rm -rf build; mkdir build
 cd build; cmake -DCMAKE_BUILD_TYPE=Debug ..
 make install
