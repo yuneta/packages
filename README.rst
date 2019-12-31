@@ -94,6 +94,9 @@ Si no tiene permisos de *root* contacte con su administrador de sistemas operati
 
         apt install fail2ban
 
+.. OJO modifica también
+.. /yuneta/development/yuneta/^yuneta/docs/yuneta/_static/install-yuneta-dependencies.sh
+
 * Como **root**: en Debian o similares, instalar los paquetes de desarrollo usados por :yuneta:`Yuneta`::
 
     apt -y install autotools-dev automake autogen libtool debmake cmake gettext mercurial git psmisc liblzma-dev zlib1g-dev libpcre3-dev libcurl4-openssl-dev libssl-dev libldap2-dev libidn11-dev libidn2-0-dev librtmp-dev libprocps-dev uuid-dev libarchive-dev
