@@ -164,6 +164,7 @@ Si no tiene permisos de *root* contacte con su administrador de sistemas operati
         git clone https://github.com/yuneta/yuno_agent /yuneta/development/yuneta/^yuneta/yuno_agent
         git clone https://github.com/yuneta/yuno_cli /yuneta/development/yuneta/^yuneta/yuno_cli
         git clone https://github.com/yuneta/yuno-skeleton /yuneta/development/yuneta/^yuneta/yuno-skeleton
+        git clone https://github.com/yuneta/docs /yuneta/development/yuneta/^yuneta/docs
 
     * Instalación de **Yuno-store** ::
 
