@@ -18,6 +18,7 @@ add_subdirectory(ytestconfig)
 add_subdirectory(yuno-skeleton)
 add_subdirectory(yuno_agent)
 add_subdirectory(yuno_cli)
+add_subdirectory(ygclass-rename)
 # add_subdirectory(yuno_master)
 
 
