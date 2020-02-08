@@ -111,6 +111,8 @@ Si no tiene permisos de *root* contacte con su administrador de sistemas operati
     # see https://www.howtoforge.com/tutorial/how-to-install-fail2ban-on-centos/
     yum install epel-release
     yum install fail2ban fail2ban-systemd
+    systemctl enable fail2ban
+    systemctl start fail2ban
 
 .. warning::
 
