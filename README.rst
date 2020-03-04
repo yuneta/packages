@@ -77,7 +77,18 @@ Instalación manual
 
 Instalación paso a paso en la consola.
 
-Si no tiene permisos de *root* contacte con su administrador de sistemas operativos.
+Aquí se dam instrucciones tanto para:
+
+    - Debian y derivados (apt)
+    - Red-Hat y derivados (yum).
+
+La primera parte de la instalación necesita permisos de *root*. Contacte con su administrador de sistemas operativos si no los tiene.
+
+La segunda parte de la instalación es Yuneta propiamente;
+todo las operaciones pertenecen al dominio de *yuneta*.
+Yuneta no necesita privilegios de root para operar,
+excepto en la fase de instalación.
+
 
 * Como **root**: instalar paquetes útiles::
 
