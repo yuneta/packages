@@ -45,20 +45,41 @@ cuelga directamente del directorio root ``/`` del sistema de ficheros.
 a excepción de ``/etc`` que se usa para instalar
 el arranque autómatico del servicio del :agent:`agente`.
 
-Es aconsejable que el directorio ``/yuneta`` disponga de su propia partición.
+Que el directorio ``/yuneta`` disponga de su propia partición es a tu conveniencia.
 
-El directorio ``/yuneta`` y todos sus subdirectorios deben pertener al usuario y grupo **yuneta**.
+.. warning::
+
+    El directorio ``/yuneta`` y todos sus subdirectorios deben pertener al usuario y grupo **yuneta**.
 
 :node-dev:`Nodo de desarrollo`
 ------------------------------
 
-Puedes instalar yuneta con estos scripts:
+Puedes realizar la instalación de manera semi-automática o manual.
+Si no tienes mucha experiencia con Linux es aconsejable realizar
+la instalación manual para experimentar con los comandos.
 
-:download:`install-yuneta-dependencies <_static/install-yuneta-dependencies.sh>`.
+Instalación semi-automática con scripts
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-:download:`install-yuneta-packages <_static/install-yuneta-packages.sh>`.
+Puedes instalar yuneta de manera más rápida con estos scripts.
 
-Ejemplo de instalación en un nodo con **Debian 9.5** teniendo permisos de *root*.
+Baja este script y dale permisos de ejecución.
+
+Ejecútalo en la consola como usuario **root**.
+
+:download:`install-yuneta-dependencies.sh <_static/install-yuneta-dependencies.sh>`
+
+
+Baja este script y dale permisos de ejecución.
+
+Ejecútalo en la consola como usuario **yuneta**.
+
+:download:`install-yuneta-packages.sh <_static/install-yuneta-packages.sh>`
+
+Instalación manual
+~~~~~~~~~~~~~~~~~~
+
+Instalación paso a paso en la consola.
 
 Si no tiene permisos de *root* contacte con su administrador de sistemas operativos.
 
@@ -74,9 +95,12 @@ Si no tiene permisos de *root* contacte con su administrador de sistemas operati
 
     dpkg-reconfigure locales
 
-* Como **root**: crear el directorio ``/yuneta`` y darle la propiedad a *yuneta* ::
+* Como **root**: crear el directorio ``/yuneta`` si no existe::
 
     mkdir /yuneta
+
+* **IMPORTANTE** Como **root**: darle la propiedad a *yuneta* ::
+
     chown yuneta:yuneta /yuneta
 
 * Como **root**: **OPCIONAL**, mejorar la seguridad de acceso ssh:
