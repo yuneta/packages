@@ -63,18 +63,14 @@ Instalación semi-automática con scripts
 
 Puedes instalar yuneta de manera más rápida con estos scripts.
 
-Baja este script y dale permisos de ejecución.
+Baja este script, dale permisos de ejecución, y ejecútalo como usuario **root**:
 
-Ejecútalo en la consola como usuario **root**.
-
-:download:`install-yuneta-dependencies.sh <_static/install-yuneta-dependencies.sh>`
+    :download:`install-yuneta-dependencies.sh <_static/install-yuneta-dependencies.sh>`
 
 
-Baja este script y dale permisos de ejecución.
+Baja este script, dale permisos de ejecución, y ejecútalo como usuario **yuneta**:
 
-Ejecútalo en la consola como usuario **yuneta**.
-
-:download:`install-yuneta-packages.sh <_static/install-yuneta-packages.sh>`
+    :download:`install-yuneta-packages.sh <_static/install-yuneta-packages.sh>`
 
 Instalación manual
 ~~~~~~~~~~~~~~~~~~
