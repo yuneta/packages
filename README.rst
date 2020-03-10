@@ -30,7 +30,8 @@ Introducción
 Los :node:`nodos` de Yuneta pueden clasificarse en:
 
     * :node-dev:`Nodo de desarrollo`:
-        - Contiene el código fuente de los proyectos y del framework Yuneta.
+        - Es el nodo que contiene el código fuente de Yuneta y los proyectos.
+        - Sirve tanto para **desarrollo** como para **despliegue**.
         - Es la factoria de :yuno:`yunos`, es decir, de los binarios y sus configuraciones iniciales,
           que acabarán desplegados en los :node-job:`Nodo de trabajo`.
 
@@ -53,6 +54,9 @@ Que el directorio ``/yuneta`` disponga de su propia partición es a tu convenien
 
 :node-dev:`Nodo de desarrollo`
 ------------------------------
+
+Se usa tanto para desarrollo como para funciones de despliegue.
+Despliegues de las diferentes combinaciones de distribución/procesador que use nuestro proyecto o sistema.
 
 Puedes realizar la instalación de manera semi-automática o manual.
 Si no tienes mucha experiencia con Linux es aconsejable realizar
