@@ -46,8 +46,6 @@ cuelga directamente del directorio root ``/`` del sistema de ficheros.
 a excepción de ``/etc`` que se usa para instalar
 el arranque autómatico del servicio del :agent:`agente`.
 
-Que el directorio ``/yuneta`` disponga de su propia partición es a tu conveniencia.
-
 .. warning::
 
     El directorio ``/yuneta`` y todos sus subdirectorios deben pertener al usuario y grupo **yuneta**.
