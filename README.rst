@@ -125,7 +125,7 @@ excepto en la fase de instalación.
     Si el servidor está en una red pública (Internet),
     puedes instalar la utilidad `fail2ban <https://es.wikipedia.org/wiki/Fail2ban>`_ para blindar el servidor::
 
-        apt install fail2ban
+        apt -y install fail2ban
 
 .. OJO modifica también
 .. /yuneta/development/yuneta/^yuneta/docs/yuneta/_static/install-yuneta-dependencies.sh
@@ -138,12 +138,12 @@ excepto en la fase de instalación.
 
     # sudo usermod -aG wheel yuneta # wheel group has sudo privileges
 
-    yum group install "Development Tools"
+    yum -y group install "Development Tools"
     yum -y install pcre-devel zlib-devel zlib-static libuuid-devel psmisc xz-devel centos-release-scl libarchive-devel procps-ng-devel cmake
 
     # see https://www.howtoforge.com/tutorial/how-to-install-fail2ban-on-centos/
-    yum install epel-release
-    yum install fail2ban fail2ban-systemd
+    yum -y install epel-release
+    yum -y install fail2ban fail2ban-systemd
     systemctl enable fail2ban
     systemctl start fail2ban
 
@@ -303,7 +303,7 @@ Para crear un :node-job:`nodo de trabajo` de :yuneta:`Yuneta`:
         cd ~/deb-build/amd64
         scp yuneta-agent-3.2.0-1-amd64.deb yuneta@nodo100:
         ssh yuneta@nodo100
-        sudo apt install ./yuneta-agent-3.2.0-1-amd64.deb
+        sudo apt -y install ./yuneta-agent-3.2.0-1-amd64.deb
 
 Actualización
 -------------
