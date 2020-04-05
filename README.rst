@@ -141,11 +141,26 @@ excepto en la fase de instalación.
     yum -y group install "Development Tools"
     yum -y install pcre-devel zlib-devel zlib-static libuuid-devel psmisc xz-devel centos-release-scl libarchive-devel procps-ng-devel cmake
 
+
     # see https://www.howtoforge.com/tutorial/how-to-install-fail2ban-on-centos/
     yum -y install epel-release
     yum -y install fail2ban fail2ban-systemd
     systemctl enable fail2ban
     systemctl start fail2ban
+
+* En Centos puede no estar instalardo el servidor que sincroniza la hora.
+  Para instalar NTP (Network Time Protocol)::
+
+    yum -y install ntp ntpdate ntp-doc
+    chkconfig ntpd on
+    ntpdate pool.ntp.org
+
+    systemctl start ntpd
+    systemctl enable ntpd
+    systemctl status ntpd
+
+    ntpq -p     # Para verificar la hora
+    date -R
 
 .. warning::
 
