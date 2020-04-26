@@ -98,7 +98,7 @@ excepto en la fase de instalación.
 
 * Como **root**: crear el usuario ``yuneta``::
 
-    adduser yuneta
+    useradd yuneta -Um -s /bin/bash
 
 * Si sale el warning : Setting locale failed::
 
@@ -107,6 +107,16 @@ excepto en la fase de instalación.
 * Como **root**: crear el directorio ``/yuneta`` si no existe::
 
     mkdir /yuneta
+
+* Añadir en .bashrc ::
+
+    umask 0002
+
+* Poner nombre host::
+
+    hostnamectl set-hostname {name-here}
+
+    # y añadir a /etc/hosts <ip> <hostname>
 
 * **IMPORTANTE** Como **root**: darle la propiedad a *yuneta* ::
 
