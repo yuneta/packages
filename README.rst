@@ -181,6 +181,10 @@ Relanzar con ``sysctl -p``
 O también (?) añadir a ``/proc/sys/kernel/core_pattern`` la línea ``core.%e``
 y en ``/proc/sys/kernel/core_uses_pid`` poner 0 si no quieres que se añada el pid.
 
+* Para poner la zona horaria::
+
+    sudo timedatectl set-timezone Europe/Madrid
+
 .. warning::
 
     A partir de aquí, los comandos hay que ejecutarlos como usuario **yuneta**.
