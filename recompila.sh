@@ -53,6 +53,11 @@ rm -rf build; mkdir build
 cd build; cmake -DCMAKE_BUILD_TYPE=Debug ..
 make install
 
+cd /yuneta/development/yuneta/^yuneta/c-rc_treedb
+rm -rf build; mkdir build
+cd build; cmake -DCMAKE_BUILD_TYPE=Debug ..
+make install
+
 
 ##########################################
 #       yunos
