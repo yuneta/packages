@@ -25,7 +25,7 @@ do
             if [ "$PROJECT" == "build" ]; then
                 continue
             fi
-            #echo "    ===>" $PROJECT
+            echo "    ===>" $PROJECT
             cd $PROJECT
             git pull
             cd ..
