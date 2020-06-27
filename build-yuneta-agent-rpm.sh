@@ -19,7 +19,7 @@
 #
 
 
-VERSION="4.1.4"
+VERSION="4.2.0"
 RELEASE="1"
 DATE="Fri Jan 27 2017" TODO
 
