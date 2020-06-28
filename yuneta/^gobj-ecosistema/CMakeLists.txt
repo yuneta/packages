@@ -9,8 +9,9 @@ cmake_minimum_required(VERSION 2.8)
 ##############################################
 add_subdirectory(ghelpers)
 add_subdirectory(timeranger)
-# add_subdirectory(ytls)
+add_subdirectory(ytls)
 add_subdirectory(ginsfsm)
+add_subdirectory(stats)
 
 # compile in Release mode optimized but adding debug symbols, useful for profiling :
 #

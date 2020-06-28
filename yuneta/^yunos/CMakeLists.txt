@@ -9,7 +9,7 @@ cmake_minimum_required(VERSION 2.8)
 add_subdirectory(watchfs)
 add_subdirectory(emailsender)
 add_subdirectory(logcenter)
-# add_subdirectory(statscenter)
+add_subdirectory(statscenter)
 add_subdirectory(emu_device)
 
 # compile in Release mode optimized but adding debug symbols, useful for profiling :

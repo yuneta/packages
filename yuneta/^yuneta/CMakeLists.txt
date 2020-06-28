@@ -8,7 +8,7 @@ cmake_minimum_required(VERSION 2.8)
 ##############################################
 add_subdirectory(c-core)
 add_subdirectory(c-rc_sqlite)
-# add_subdirectory(c-tls)
+add_subdirectory(c-tls)
 add_subdirectory(ybatch)
 add_subdirectory(ycommand)
 add_subdirectory(ylist)
@@ -20,6 +20,7 @@ add_subdirectory(yuno_agent)
 add_subdirectory(yuno_cli)
 add_subdirectory(ygclass-rename)
 # add_subdirectory(yuno_master)
+add_subdirectory(tests-y)
 
 
 # compile in Release mode optimized but adding debug symbols, useful for profiling :
