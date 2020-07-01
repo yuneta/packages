@@ -1,8 +1,5 @@
 #!/bin/bash
 
-#  Exit immediately if a command exits with a non-zero status.
-set -e
-
 ##########################################
 #       external-libs
 ##########################################
@@ -14,6 +11,9 @@ cd /yuneta/development/yuneta/^gobj-ecosistema/external-libs
 ##########################################
 #       gobj-ecosistema
 ##########################################
+#  Exit immediately if a command exits with a non-zero status.
+set -e
+
 cd /yuneta/development/yuneta/^gobj-ecosistema/ghelpers
 rm -rf build; mkdir build
 cd build; cmake -DCMAKE_BUILD_TYPE=Debug ..
@@ -49,6 +49,11 @@ cd build; cmake -DCMAKE_BUILD_TYPE=Debug ..
 make install
 
 cd /yuneta/development/yuneta/^yuneta/c-rc_sqlite
+rm -rf build; mkdir build
+cd build; cmake -DCMAKE_BUILD_TYPE=Debug ..
+make install
+
+cd /yuneta/development/yuneta/^yuneta/c-rc_treedb
 rm -rf build; mkdir build
 cd build; cmake -DCMAKE_BUILD_TYPE=Debug ..
 make install
