@@ -1,4 +1,12 @@
-Version 3.3.1 in progress
+Version 4.2.7
+=============
+ghelpers        - delete "Internal Counters" in daily report.
+c-core/js-core  - Commands and Stats can be redirected to another service
+ginsfsm         - gobj_gobjs_treedb_schema()/gobj_gobjs_treedb_data() treedb schema for gobjs
+
+version 4.x.x has resource node (treedb) integrated, yuno_agent using it.
+
+Version 3.3.1
 =============
 ghelpers        - change in tranger api.
 external-libs   - added openssl-1.1.1
