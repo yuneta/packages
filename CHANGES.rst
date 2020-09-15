@@ -1,3 +1,7 @@
+Version 4.2.12
+==============
+ginsfsm         - WARNING gobj meta attrs reviewed
+
 Version 4.2.8
 =============
 Deployed in dallas1
