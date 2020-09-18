@@ -1,3 +1,7 @@
+Version 4.2.13
+==============
+c-core          - Faltaban clases por registrar (GCLASS_NODE "Node")
+
 Version 4.2.12
 ==============
 ginsfsm         - WARNING gobj meta attrs reviewed
