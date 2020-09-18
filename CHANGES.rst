@@ -1,3 +1,7 @@
+Version 4.2.14
+==============
+many            - Al incorporar GCLASS_NODE, que usa uuid, en muchos proyectos que usan c-core faltaba la libreria uuid en CMakeLists.txt
+
 Version 4.2.13
 ==============
 c-core          - Faltaban clases por registrar (GCLASS_NODE "Node")
