@@ -1,3 +1,8 @@
+Version 4.2.15
+==============
+c-core          - GClass Node had tranger as json copy, making it as private variable;
+                  change it to pointer, a global variable
+
 Version 4.2.14
 ==============
 many            - Al incorporar GCLASS_NODE, que usa uuid, en muchos proyectos que usan c-core
