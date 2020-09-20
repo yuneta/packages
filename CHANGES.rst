@@ -1,3 +1,14 @@
+Version 4.2.16
+==============
+WARNING many changes:
+
+new json_diff utility
+log summary ordered by importance
+ycommand fixed
+new gobj_2key* api
+new nonlegalfile2json api
+c_yuno with new commands: cmd_2key_get_schema/cmd_2key_get_value
+
 Version 4.2.15
 ==============
 c-core          - GClass Node had tranger as json copy, making it as private variable;
