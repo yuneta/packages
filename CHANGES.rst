@@ -1,3 +1,7 @@
+Version ??
+==============
+ghelpers        - new API kw_find_path(): find on lists and dicts
+
 Version 4.2.16
 ==============
 WARNING many changes:
