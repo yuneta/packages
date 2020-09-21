@@ -1,6 +1,7 @@
 Version ??
 ==============
 ghelpers        - new API kw_find_path(): find on lists and dicts
+c-core          - c_yuno.c: cmd_2key_get_value() working with path
 
 Version 4.2.16
 ==============
