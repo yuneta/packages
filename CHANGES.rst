@@ -1,9 +1,10 @@
-Version ??
+Version 4.2.17
 ==============
 ghelpers        - new API kw_find_path(): find on lists and dicts
 c-core          - c_yuno.c: cmd_2key_get_value() working with path
                             new api: cmd_2key_get_subvalue()
 agent           - gobj_2key_register("tranger", "agent", priv->tranger);
+all             - fix gbuf2json() verbose
 
 Version 4.2.16
 ==============
