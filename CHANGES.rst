@@ -1,3 +1,8 @@
+Version 4.2.
+==============
+time2date       - without argument print now time
+
+
 Version 4.2.17
 ==============
 ghelpers        - new API kw_find_path(): find on lists and dicts
