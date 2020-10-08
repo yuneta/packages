@@ -1,3 +1,10 @@
+Version 4.2.19
+==============
+ytls,c-tls      - Add "trace" attribute to Tcp_S1 gclass: to set openssl handshake trace
+                  Example command:
+                    command-yuno id=1800 service=__root__ command=write-bool gobj_name=server_port attribute=trace value=1
+
+
 Version 4.2.18
 ==============
 time2date       - without argument print now time
