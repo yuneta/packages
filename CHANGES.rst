@@ -1,3 +1,7 @@
+Version
+==============
+ghelpers        - Treedb: field 'required' can be null
+
 Version 4.2.19
 ==============
 ytls,c-tls      - Add "trace" attribute to Tcp_S1 gclass: to set openssl handshake trace
