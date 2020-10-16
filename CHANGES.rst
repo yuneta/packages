@@ -1,6 +1,7 @@
 Version
 ==============
 ghelpers        - Treedb: field 'required' can be null
+                - Treedb schema, mark as writable the fields to be modified externally.
 
 Version 4.2.19
 ==============
