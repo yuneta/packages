@@ -240,6 +240,7 @@ y en ``/proc/sys/kernel/core_uses_pid`` poner 0 si no quieres que se añada el p
         git clone https://github.com/yuneta/yuno-skeleton /yuneta/development/yuneta/^yuneta/yuno-skeleton
         git clone https://github.com/yuneta/ygclass-rename /yuneta/development/yuneta/^yuneta/ygclass-rename
         git clone https://github.com/yuneta/docs /yuneta/development/yuneta/^yuneta/docs
+        git clone https://github.com/yuneta/yscapec /yuneta/development/yuneta/^yuneta/yscapec
 
     * Instalación de **Yuno-store** ::
 

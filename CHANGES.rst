@@ -2,6 +2,7 @@ Version
 ==============
 ghelpers        - Treedb: field 'required' can be null
                 - Treedb schema, mark as writable the fields to be modified externally.
+yscapec         - new utitility, to convert file to escaped c string
 
 Version 4.2.19
 ==============
