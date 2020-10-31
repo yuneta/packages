@@ -11,6 +11,7 @@ add_subdirectory(emailsender)
 add_subdirectory(logcenter)
 # add_subdirectory(statscenter)
 add_subdirectory(emu_device)
+add_subdirectory(controlcenter)
 
 # compile in Release mode optimized but adding debug symbols, useful for profiling :
 #
