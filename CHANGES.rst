@@ -1,4 +1,9 @@
-Version
+Version 4.2.22
+==============
+c_ievent_src    - IEvent clisrv connections must be authenticated to do commands and stats
+
+
+Version 4.2.20
 ==============
 ghelpers        - Treedb: field 'required' can be null
                 - Treedb schema, mark as writable the fields to be modified externally.
