@@ -6,7 +6,7 @@ ginsfsm         - DANGER: gobj_register_gclass() insert instead of add,
 c-core          - Danger, connections by IEvent_srv to require dst_role,
                 and authentication to call commands and stats
                 - Danger, connections by IEvent_srv, dst_name not required
-
+                - Add c_mqiogate.c to c-core
 
 Version 4.2.22
 ==============
