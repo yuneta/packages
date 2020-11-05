@@ -1,3 +1,13 @@
+Version 4.2.23
+==============
+ginsfsm         - DANGER: gobj_register_gclass() insert instead of add,
+                now the last gclass registered is the first returnn in gobj_find_gclass()
+                - remove verbose option in treedb create-node, update-node
+c-core          - Danger, connections by IEvent_srv to require dst_role,
+                and authentication to call commands and stats
+                - Danger, connections by IEvent_srv, dst_name not required
+
+
 Version 4.2.22
 ==============
 c_ievent_src    - IEvent clisrv connections must be authenticated to do commands and stats
