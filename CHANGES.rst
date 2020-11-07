@@ -1,3 +1,15 @@
+Version 4.2.24
+==============
+
+ginsfsm         - Global trace of __yuno__ loaded before it starts.
+                - Add to json __json_config_variables__ the next global variables:
+                    __realm_name__
+                    __yuno_role__
+                    __yuno_name__
+                    __yuno_alias__
+                    __yuno_role_plus_name__
+
+
 Version 4.2.23
 ==============
 ginsfsm         - DANGER: gobj_register_gclass() insert instead of add,
