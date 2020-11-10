@@ -249,6 +249,7 @@ y en ``/proc/sys/kernel/core_uses_pid`` poner 0 si no quieres que se añada el p
         git clone https://github.com/yuno-store/logcenter /yuneta/development/yuneta/^yunos/logcenter
         git clone https://github.com/yuno-store/watchfs /yuneta/development/yuneta/^yunos/watchfs
         git clone https://github.com/yuno-store/controlcenter /yuneta/development/yuneta/^yunos/controlcenter
+        git clone https://github.com/yuno-store/sgateway /yuneta/development/yuneta/^yunos/sgateway
 
 * Si quieres directorios compartidos para el grupo
   (derecho de escritura para todos los usuarios del grupo *yuneta*) ::

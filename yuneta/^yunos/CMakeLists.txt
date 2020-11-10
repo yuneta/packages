@@ -12,6 +12,7 @@ add_subdirectory(logcenter)
 # add_subdirectory(statscenter)
 add_subdirectory(emu_device)
 add_subdirectory(controlcenter)
+add_subdirectory(sgateway)
 
 # compile in Release mode optimized but adding debug symbols, useful for profiling :
 #
