@@ -1,6 +1,6 @@
 #!/bin/sh
 PROYECT="yuneta-agent"
-VERSION="4.2.24"
+VERSION="4.2.25"
 RELEASE="1"
 ARCHITECTURE="armhf"
 
