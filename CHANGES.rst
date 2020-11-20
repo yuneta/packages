@@ -1,3 +1,10 @@
+Version 4.2.26
+==============
+new tranger_delete
+
+Version 4.2.25
+==============
+
 Version 4.2.24
 ==============
 
