@@ -1,6 +1,7 @@
 Version 4.2.26
 ==============
-new tranger_delete
+timeranger      - new tranger_delete()
+ghelpers        - new split3() to include empty strings
 
 Version 4.2.25
 ==============
