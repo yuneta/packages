@@ -3,6 +3,7 @@ Version 4.2.26
 timeranger      - new tranger_delete()
 ghelpers        - new split3() to include empty strings
 treedb,tranger  - DANGER, fix keys oversize
+c-core          - new gclass c_tranger
 
 Version 4.2.25
 ==============
