@@ -1,3 +1,7 @@
+Version 4.2.27
+==============
+Add permissions
+
 Version 4.2.26
 ==============
 timeranger      - new tranger_delete()
