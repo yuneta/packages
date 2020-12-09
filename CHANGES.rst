@@ -1,3 +1,8 @@
+Version 4.2.28
+==============
+Change all node functions to admit source gobj and let apply permissions
+Update agent and fichador, the two yunos using treedb
+
 Version 4.2.27
 ==============
 Add permissions
