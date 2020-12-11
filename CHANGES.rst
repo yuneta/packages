@@ -1,3 +1,8 @@
+Version 4.2.29
+==============
+Add authorization.
+
+
 Version 4.2.28
 ==============
 Change all node functions to admit source gobj and let apply permissions
