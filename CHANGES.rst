@@ -1,6 +1,7 @@
-Version 4.2.29
+Version 4.3.0
 ==============
 Add authorization.
+yuneta directories changed
 
 
 Version 4.2.28
