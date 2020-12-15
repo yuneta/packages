@@ -1,5 +1,10 @@
+Version 4.3.1
+=============
+Restore yuneta directories, many incompatibilities
+Persistent attributes with tranger
+
 Version 4.3.0
-==============
+=============
 Add authorization.
 yuneta directories changed
 
