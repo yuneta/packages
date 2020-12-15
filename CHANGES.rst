@@ -1,3 +1,9 @@
+Version 4.3.2
+=============
+fix load persistent attrs
+tranger open as not master is __timeranger__.json is locked.
+
+
 Version 4.3.1
 =============
 Restore yuneta directories, many incompatibilities
