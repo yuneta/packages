@@ -1,3 +1,9 @@
+Version 4.3.3
+=============
+c_yuno      - remove set_user_traces() from mt_create, only in mt_start
+c_agent     - add set-multiple command and improve messages
+
+
 Version 4.3.2
 =============
 fix load persistent attrs
