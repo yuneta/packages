@@ -1,3 +1,9 @@
+Version 4.4.0
+=============
+fix methods of gclass with authz methods
+c_authz to c-core instead of c-tls
+
+
 Version 4.3.3
 =============
 c_yuno      - remove set_user_traces() from mt_create, only in mt_start
