@@ -1,5 +1,6 @@
 Version 4.5.0
 =============
+Rename yuno_alias to yuno_tag
 Refactoring realms authz
 
 Version 4.4.1
