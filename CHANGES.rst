@@ -1,3 +1,7 @@
+Version 4.5.0
+=============
+Refactoring realms authz
+
 Version 4.4.1
 =============
 simpledb2 for persistent attrs, make startup function idempotent and return the tranger handler.
