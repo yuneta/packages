@@ -62,7 +62,7 @@ ginsfsm         - Global trace of __yuno__ loaded before it starts.
                     __realm_name__
                     __yuno_role__
                     __yuno_name__
-                    __yuno_alias__
+                    __yuno_tag__
                     __yuno_role_plus_name__
 
 
