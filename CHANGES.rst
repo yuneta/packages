@@ -1,3 +1,7 @@
+Version 4.6.0
+=============
+Refactorizado treedb y agente
+
 Version 4.5.0
 =============
 Rename yuno_alias to yuno_tag
