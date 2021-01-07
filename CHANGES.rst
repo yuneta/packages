@@ -1,3 +1,9 @@
+Version 4.6.1
+=============
+Fix disable-yuno in agent
+Add description to snaps
+Add dir-local-data command to agent
+
 Version 4.6.0
 =============
 Refactorizado treedb y agente
