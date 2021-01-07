@@ -1,3 +1,7 @@
+Version 4.6.2?
+=============
+Directorio de logs de logcenter en /logs en vez de /data
+
 Version 4.6.1
 =============
 Fix disable-yuno in agent
