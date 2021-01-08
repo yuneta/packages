@@ -1,6 +1,9 @@
-Version 4.6.2?
+Version 4.6.2
 =============
+Logcenter - domain_dir fixed 'domain_dir': 'realms/agent/logcenter'
+Logcenter - exit if bind ip fails
 Directorio de logs de logcenter en /logs en vez de /data
+logcenter with more information in some msg.
 
 Version 4.6.1
 =============
