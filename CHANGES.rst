@@ -1,3 +1,7 @@
+Version 4.6.4 ?
+=============
+logcenter bind to 127.0.0.1
+
 Version 4.6.3
 =============
 Change path of realms data, more simple.
