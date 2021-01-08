@@ -1,3 +1,7 @@
+Version 4.6.3
+=============
+Change path of realms data, more simple.
+
 Version 4.6.2
 =============
 Logcenter - domain_dir fixed 'domain_dir': 'realms/agent/logcenter'
