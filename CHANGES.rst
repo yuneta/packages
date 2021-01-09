@@ -1,6 +1,9 @@
-Version 4.6.4 ?
+Version 4.6.4
 =============
 logcenter bind to 127.0.0.1
+realm_id to environment
+set realm_id to agent: agent.yunetacontrol.com
+change authz treedb, only roles/users topics.
 
 Version 4.6.3
 =============
