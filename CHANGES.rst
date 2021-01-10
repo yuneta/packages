@@ -1,3 +1,17 @@
+Version 4.6.5?
+=============
+Authz: change field name role_ids by roles
+Treedb Schemas must have treedb prefix, to avoid conflicts of names
+Reordena paths store: misma regla para todos:
+
+    /yuneta/realms/owner/realm_id/xxx           datos LOCALES que se pueden borrar
+    /yuneta/store/service/owner/realm_id/xxx    datos GLOBALES que hay que conservar.
+
+    Creado el api yuneta_realm_store_dir() para obtener automaticamente el directorio GLOBAL
+    OJO desaparece el attribute 'company' de los yunos con servicio
+
+Corrige realm_dir y domain_dir a los yunos de utilidades, para que sus logs estén organizados.
+
 Version 4.6.4
 =============
 logcenter bind to 127.0.0.1
