@@ -1,4 +1,4 @@
-Version 4.6.5?
+Version 4.6.5
 =============
 GObj: to debug change json2str by log_debug_json.
 GObj: add all global variables to gobj_write_json_parameters().
