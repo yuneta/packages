@@ -1,3 +1,7 @@
+Version 4.6.6?
+=============
+
+
 Version 4.6.5
 =============
 GObj: to debug change json2str by log_debug_json.
