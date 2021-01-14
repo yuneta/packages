@@ -1,6 +1,11 @@
-Version 4.6.6?
+Version 4.6.7?
 =============
-WARNING Working without authentication return -1, avoid access
+Fix "Working without authentication" can't return -1 because deny access.
+
+
+Version 4.6.6
+=============
+WARNING "Working without authentication" return -1, avoid access
 Fix treedb error
 
 Version 4.6.5
