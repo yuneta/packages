@@ -1,4 +1,4 @@
-Version 4.6.7?
+Version 4.6.7
 =============
 Fix "Working without authentication" can't return -1 because deny access.
 WARNING fkey,hook default option is "refs"
