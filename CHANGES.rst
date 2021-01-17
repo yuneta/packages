@@ -1,6 +1,7 @@
-Version 4.6.9?
+Version 4.6.9
 =============
-liboauth2 - It seems required to used cache in liboauth2
+c_authz liboauth2 - It seems required to used cache in liboauth2
+c-tls - Add oauth2.conf, the only documentation found about liboauth2
 
 Version 4.6.8
 =============
