@@ -1,6 +1,9 @@
-Version 4.6.8?
+Version 4.6.8
 =============
 c_ievent_srv.c - fix timeout when authenticacion rejected
+c_yuno - fix set gclass level traces
+c_authz - set right options to oauth2
+Update liboauth2-1.4.0.1, NEED recompila!
 
 Version 4.6.7
 =============
