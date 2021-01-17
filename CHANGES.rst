@@ -1,3 +1,7 @@
+Version 4.6.9?
+=============
+liboauth2 - It seems required to used cache in liboauth2
+
 Version 4.6.8
 =============
 c_ievent_srv.c - fix timeout when authenticacion rejected
