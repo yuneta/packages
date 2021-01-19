@@ -1,6 +1,7 @@
-Version 4.6.10?
+Version 4.6.10
 ==============
-
+Fix treedb delete node
+if-resource-exists in string instead of numbers
 
 Version 4.6.9
 =============
