@@ -1,3 +1,7 @@
+Version 4.7.0
+=============
+Se añade el field user_data (blob) al schema básico
+
 Version 4.6.11
 ==============
 Los campos nuevos en treedb si eran blob no se creaban.
