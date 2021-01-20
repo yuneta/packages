@@ -1,3 +1,7 @@
+Version 4.6.11
+==============
+Los campos nuevos en treedb si eran blob no se creaban.
+
 Version 4.6.10
 ==============
 Fix treedb delete node
