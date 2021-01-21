@@ -1,3 +1,7 @@
+Version 4.7.1?
+=============
+new command in c_tranger: check-json
+
 Version 4.7.0
 =============
 Se añade el field user_data (blob) al schema básico
