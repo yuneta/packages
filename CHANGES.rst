@@ -1,3 +1,7 @@
+Version 4.7.2
+=============
+fix inherited field treedb
+
 Version 4.7.1
 =============
 new command in c_tranger: check-json
