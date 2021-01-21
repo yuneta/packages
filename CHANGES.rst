@@ -1,6 +1,7 @@
-Version 4.7.1?
+Version 4.7.1
 =============
 new command in c_tranger: check-json
+fix commands in c_node
 
 Version 4.7.0
 =============
