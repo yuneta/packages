@@ -1,3 +1,7 @@
+Version 4.7.3?
+=============
+add EV_TREEDB_NODE_CREATED event to treedb
+
 Version 4.7.2
 =============
 fix inherited field treedb
