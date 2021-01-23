@@ -1,6 +1,10 @@
-Version 4.7.3?
+Version 4.7.3
 =============
 add EV_TREEDB_NODE_CREATED event to treedb
+agent using snaps of c_node
+treedb: system topic changed: user_data by properties
+treedb: treedb_save_node: update __md_treedb__
+
 
 Version 4.7.2
 =============
