@@ -1,4 +1,4 @@
-Version 4.7.5?
+Version 4.7.5
 =============
 fix options in cmd_delete_node
 
