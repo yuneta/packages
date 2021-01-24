@@ -1,3 +1,7 @@
+Version 4.7.5?
+=============
+fix options in cmd_delete_node
+
 Version 4.7.4
 =============
 Fix update treedb metadata in treedb_save_node
