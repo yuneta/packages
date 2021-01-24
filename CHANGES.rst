@@ -1,3 +1,8 @@
+Version 4.7.4
+=============
+Fix update treedb metadata in treedb_save_node
+More debug info in subscriptions
+
 Version 4.7.3
 =============
 add EV_TREEDB_NODE_CREATED event to treedb
