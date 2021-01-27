@@ -1,3 +1,10 @@
+Version 4.7.6
+=============
+change fkey,hook option "no-metadata" to "with-metadata"
+treedb: fields with prefix "__" are considered metadata and no visible in node_collapsed_view()
+_sessions renamed to __sessions
+
+
 Version 4.7.5
 =============
 fix options in cmd_delete_node
