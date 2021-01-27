@@ -1,9 +1,12 @@
+Version 4.7.7
+=============
+API gobj_link_nodes/gobj_unlink_nodes changed, must include names of topics
+
 Version 4.7.6
 =============
 change fkey,hook option "no-metadata" to "with-metadata"
 treedb: fields with prefix "__" are considered metadata and no visible in node_collapsed_view()
 _sessions renamed to __sessions
-
 
 Version 4.7.5
 =============
