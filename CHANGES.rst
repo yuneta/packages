@@ -1,3 +1,8 @@
+Version 4.7.8
+=============
+hook-fkeys options: change list-dict by list_dict and only-id by only_id: compatible with js
+
+variables
 Version 4.7.7
 =============
 API gobj_link_nodes/gobj_unlink_nodes changed, must include names of topics
