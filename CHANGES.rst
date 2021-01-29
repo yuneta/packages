@@ -1,3 +1,7 @@
+Version 4.7.9
+=============
+DANGER refactoring fkey/hook options
+
 Version 4.7.8
 =============
 hook-fkeys options: change list-dict by list_dict and only-id by only_id: compatible with js
