@@ -1,6 +1,6 @@
 #!/bin/sh
 PROYECT="yuneta-agent"
-VERSION="4.7.9"
+VERSION="4.8.0"
 RELEASE="1"
 ARCHITECTURE="amd64"
 

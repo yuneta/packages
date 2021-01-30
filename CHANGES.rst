@@ -1,3 +1,7 @@
+Version 4.8.0
+=============
+DANGER refactoring fkey/hook options
+
 Version 4.7.9
 =============
 DANGER refactoring fkey/hook options
