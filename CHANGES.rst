@@ -1,3 +1,7 @@
+Version 4.8.3
+=============
+WARNING this version require to delete treedb of agent!! Reinstall!
+
 Version 4.8.1
 =============
 Authz modified, check destination service.
