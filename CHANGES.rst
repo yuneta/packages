@@ -1,3 +1,7 @@
+Version 4.8.4
+=============
+Disable [] for hook fields
+
 Version 4.8.3
 =============
 WARNING this version require to delete treedb of agent!! Reinstall!
