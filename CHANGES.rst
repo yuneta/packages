@@ -1,6 +1,7 @@
 Version 4.8.4
 =============
-Disable [] for hook fields
+Disable list type [] for hook fields
+identity card can get required_services, that will be added to authsz if it has.
 
 Version 4.8.3
 =============
