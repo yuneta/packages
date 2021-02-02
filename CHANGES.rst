@@ -1,7 +1,7 @@
-Version 4.8.4
+Version 4.8.4?
 =============
 Disable list type [] for hook fields
-identity card can get required_services, that will be added to authsz if it has.
+identity card can use 'required_services', that service roles will be added to authsz if user has.
 
 Version 4.8.3
 =============
