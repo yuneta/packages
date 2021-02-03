@@ -1,3 +1,7 @@
+Version 4.8.5
+=============
+__root__ services, add gclass_name parameter
+
 Version 4.8.4
 =============
 Disable list type [] for hook fields
