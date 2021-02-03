@@ -2,6 +2,7 @@ Version 4.8.4?
 =============
 Disable list type [] for hook fields
 identity card can use 'required_services', that service roles will be added to authsz if user has.
+Add "cause" in "Authentication rejected" message.
 
 Version 4.8.3
 =============
