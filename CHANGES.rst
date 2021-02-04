@@ -1,5 +1,7 @@
 Version 4.8.5
 =============
+WARNING this version require to delete treedb of agent!! Reinstall!
+Change yuneta_agent schema
 __root__ services, add gclass_name parameter
 
 Version 4.8.4
