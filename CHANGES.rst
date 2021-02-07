@@ -1,3 +1,8 @@
+Version 4.8.8?
+=============
+Fix error "Parameter Error" "x":
+    Node: update-node get bool with KW_WILD_NUMBER
+
 Version 4.8.7
 =============
 Agent: fix treedb_name, use name of treedb schema ("treedb_yuneta_agent")
