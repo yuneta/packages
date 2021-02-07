@@ -1,3 +1,13 @@
+Version 4.8.7
+=============
+Agent: fix treedb_name, use name of treedb schema ("treedb_yuneta_agent")
+Agent: Add the role "manage-yuneta-agent"
+
+Version 4.8.6
+=============
+Add _geometry field to all agent topics
+gui access to any treedb
+
 Version 4.8.5
 =============
 WARNING this version require to delete treedb of agent!! Reinstall!
