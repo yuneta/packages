@@ -1,3 +1,7 @@
+Version 4.8.9
+=============
+Fix errors of __username__
+
 Version 4.8.8
 =============
 Permissions ENABLED!
