@@ -1,7 +1,11 @@
 Version 4.8.8?
 =============
+gobj_node_childs() reviewed
+
 Fix error "Parameter Error" "x":
     Node: update-node get bool with KW_WILD_NUMBER
+
+Authzs - Add permission/parameters fields to treedb_authzs
 
 Version 4.8.7
 =============
