@@ -1,5 +1,7 @@
-Version 4.8.8?
+Version 4.8.8
 =============
+Permissions ENABLED!
+
 gobj_node_childs() reviewed
 
 Fix error "Parameter Error" "x":
