@@ -1,5 +1,5 @@
-Version 4.8.11
-==============
+Version 4.9.0
+=============
 Elimina "content" de los comandos de Node, solo content64 y record
 
 Version 4.8.10
