@@ -1,3 +1,7 @@
+Version 4.8.11
+==============
+Elimina "content" de los comandos de Node, solo content64 y record
+
 Version 4.8.10
 ==============
 New gclass: Treedb, Management of treedb's
