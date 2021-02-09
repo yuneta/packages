@@ -1,6 +1,7 @@
-Version 4.8.10?
+Version 4.8.10
 ==============
 New gclass: Treedb, Management of treedb's
+Fix username in IEvent_cli
 
 Version 4.8.9
 =============
