@@ -242,6 +242,7 @@ y en ``/proc/sys/kernel/core_uses_pid`` poner 0 si no quieres que se añada el p
         git clone https://github.com/yuneta/docs /yuneta/development/yuneta/^yuneta/docs
         git clone https://github.com/yuneta/yscapec /yuneta/development/yuneta/^yuneta/yscapec
         git clone https://github.com/yuneta/mxgraph-js.git /yuneta/development/yuneta/^yuneta/mxgraph-js
+        git clone https://github.com/yuneta/ytests /yuneta/development/yuneta/^yuneta/ytests
 
     * Instalación de **Yuno-store** ::
 

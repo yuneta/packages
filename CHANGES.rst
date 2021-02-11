@@ -1,3 +1,11 @@
+Version 4.9.2
+=============
+New utility: ytests
+
+Version 4.9.1
+=============
+Fix nodes
+
 Version 4.9.0
 =============
 Elimina "content" de los comandos de Node, solo content64 y record

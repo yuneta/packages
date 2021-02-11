@@ -22,6 +22,7 @@ add_subdirectory(ygclass-rename)
 # add_subdirectory(yuno_master)
 add_subdirectory(tests-y)
 add_subdirectory(yscapec)
+add_subdirectory(ytests)
 
 
 # compile in Release mode optimized but adding debug symbols, useful for profiling :

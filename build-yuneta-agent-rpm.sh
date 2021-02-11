@@ -95,6 +95,7 @@ rm -rf %{buildroot}
 /yuneta/bin/ylist
 /yuneta/bin/yshutdown
 /yuneta/bin/ystats
+/yuneta/bin/ytests
 /yuneta/bin/ytestconfig
 /yuneta/bin/yuneta
 /yuneta/agent/service/install-yuneta-service.sh
