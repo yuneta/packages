@@ -1,3 +1,7 @@
+Version 4.9.5
+=============
+Fix pipe inheritance
+
 Version 4.9.4
 =============
 Fix pipe inheritance
