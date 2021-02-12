@@ -1,3 +1,7 @@
+Version 4.9.4
+=============
+Fix pipe inheritance
+
 Version 4.9.3
 =============
 Pipe inheritance: Node -> Tranger
