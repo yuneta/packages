@@ -1,3 +1,9 @@
+Version 4.9.3
+=============
+Pipe inheritance: Node -> Tranger
+Pipe inheritance: Treedb -> Node
+WARNING efecto colateral? gobj bottom start/stop automaticamente
+
 Version 4.9.2
 =============
 New utility: ytests
