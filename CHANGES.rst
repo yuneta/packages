@@ -1,7 +1,7 @@
 Version 4.9.6?
 =============
 31_tr_treedb.c: protect against null
-Treedb: add enum type "time"
+Treedb: add enum type "time" "color"
 
 Version 4.9.5
 =============
