@@ -5,6 +5,7 @@ Treedb: add enum type "time" "color"
 ginsfsm: '"bottom_gobj already set" as warning instead of error'
 c_tranger: low level service: tranger must be mt_create method instead of mt_start.
 jsoneditor: fields 'time' as time
+trash button in formatable configurable
 
 Version 4.9.5
 =============
