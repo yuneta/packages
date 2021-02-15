@@ -1,7 +1,10 @@
 Version 4.9.6?
 =============
-31_tr_treedb.c: protect against null
+31_tr_treedb.c: protect against null, fix hook string type
 Treedb: add enum type "time" "color"
+ginsfsm: '"bottom_gobj already set" as warning instead of error'
+c_tranger: low level service: tranger must be mt_create method instead of mt_start.
+jsoneditor: fields 'time' as time
 
 Version 4.9.5
 =============
