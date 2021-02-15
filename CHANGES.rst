@@ -1,3 +1,8 @@
+Version 4.9.6?
+=============
+31_tr_treedb.c: protect against null
+Treedb: add enum type "time"
+
 Version 4.9.5
 =============
 Fix pipe inheritance
