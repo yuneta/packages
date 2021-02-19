@@ -1,4 +1,8 @@
-Version 4.9.6?
+Version 4.9.7
+=============
+new gobj api: gobj_topic_jtree
+
+Version 4.9.6
 =============
 31_tr_treedb.c: protect against null, fix hook string type
 Treedb: add enum type "time" "color"
