@@ -1,3 +1,8 @@
+Version 4.9.8
+=============
+stats reviewed
+jtree cmd
+
 Version 4.9.7
 =============
 new gobj api: gobj_topic_jtree
