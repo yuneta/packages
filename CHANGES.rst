@@ -1,3 +1,7 @@
+Version 4.9.9
+=============
+'Add "expand_childs" option in jtree and all functions using node_collapsed_view(), i.e fkey,hook options'
+
 Version 4.9.8
 =============
 stats reviewed
