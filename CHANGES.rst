@@ -1,3 +1,8 @@
+Version 4.9.10?
+==============
+js: ac_toggle, ac_show and ac_hide return isVisible()
+cambia menú principal yuno_gui a tree
+
 Version 4.9.9
 =============
 'Add "expand_childs" option in jtree and all functions using node_collapsed_view(), i.e fkey,hook options'
