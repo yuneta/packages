@@ -1,5 +1,7 @@
 Version 4.9.10?
 ==============
+31_tr_treedb.c: prepare the future, use topic_name or id in topic schema
+
 js: ac_toggle, ac_show and ac_hide return isVisible()
 cambia menú principal yuno_gui a tree
 
