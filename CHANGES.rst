@@ -1,5 +1,8 @@
-Version 4.9.10?
+Version 4.9.10
 ==============
+WARNING many changes, see commits
+changed mt_future60 by mt_node_tree
+changed topic_pkeys2 by pkey2s
 agent,gobj: fix play true although play return error.
 31_tr_treedb.c: prepare the future, use topic_name or id in topic schema
 
