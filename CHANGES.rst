@@ -1,3 +1,9 @@
+Version 4.10.2
+==============
+Fix build_new_treedb_schema() c_treedb
+Command parser: use nonlegalfile2json()
+
+
 Version 4.10.1
 ==============
 c_authz move to common directory, add permissions
