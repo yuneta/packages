@@ -4,6 +4,7 @@ c_authz move to common directory, add permissions
 records rowid can be clone in graph
 export-db don't export ids aka rowid
 WARNING treedb_topic_pkey2s_filter: add pkey2 to filter only if it's not empty string
+c_treedb: create-topic and delete-topic new commands
 
 Version 4.9.10
 ==============
