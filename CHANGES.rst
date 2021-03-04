@@ -1,3 +1,7 @@
+Version 4.10.6
+==============
+WARNING agent: change disabled->yuno_disabled, multiple->yuno_multiple
+
 Version 4.10.5
 ==============
 add events to authzs gclass: EV_AUTHZS_USER_LOGIN,EV_AUTHZS_USER_LOGOUT,EV_REJECT_USER
