@@ -1,5 +1,9 @@
 Version 4.10.6
 ==============
+fix yuno_multiple
+
+Version 4.10.6
+==============
 WARNING agent: change disabled->yuno_disabled, multiple->yuno_multiple
 
 Version 4.10.5
