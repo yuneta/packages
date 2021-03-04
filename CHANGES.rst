@@ -1,3 +1,8 @@
+Version 4.10.5
+==============
+add events to authzs gclass: EV_AUTHZS_USER_LOGIN,EV_AUTHZS_USER_LOGOUT,EV_REJECT_USER
+parse schemas in authz and agent
+
 Version 4.10.4
 ==============
 wstats_add_value: return error and don't log too much log
