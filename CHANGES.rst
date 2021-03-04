@@ -1,3 +1,11 @@
+Version 4.10.5?
+==============
+wstats_add_value: return error and don't log too much log
+
+Version 4.10.4
+==============
+Updated to Openssl 1.1.1j
+
 Version 4.10.3
 ==============
 Fix mt_node_tree
