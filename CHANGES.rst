@@ -1,3 +1,8 @@
+Version 4.10.7?
+==============
+c_authz: use empty_string, better error message
+ginsfsm: iev_create2() for hide use of __temp__ __channel__
+
 Version 4.10.6
 ==============
 fix yuno_multiple
