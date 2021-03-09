@@ -1,6 +1,7 @@
 Version 4.10.10
 ===============
 authz - permission field not required
+dejo a mxgraph con su versión, desacoplado de yuneta
 
 Version 4.10.9
 ==============
