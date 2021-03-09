@@ -1,3 +1,9 @@
+Version 4.10.11
+===============
+add new api kwid_walk_childs
+fix mt_update_node, create option if node exists then it's and update
+authz: add EV_ADD_USER event and 'time' field to schema
+
 Version 4.10.10
 ===============
 authz - permission field not required
