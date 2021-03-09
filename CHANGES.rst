@@ -1,3 +1,7 @@
+Version 4.10.10
+===============
+authz - permission field not required
+
 Version 4.10.9
 ==============
 c_authz: use empty_string, better error message
