@@ -1,3 +1,10 @@
+Version 4.10.12
+===============
+authz inform of new user login EV_AUTHZ_USER_NOT_AUTHORIZED
+cmd list-persistent-attrs with gobj_name
+new cmd remove-persistent-attrs
+change api dbsimple2/dbsimple used in persistent attrs. TODO: migrate to treedb
+
 Version 4.10.11
 ===============
 add new api kwid_walk_childs
