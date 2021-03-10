@@ -1,3 +1,7 @@
+Version 4.10.13
+===============
+make commands of authz
+
 Version 4.10.12
 ===============
 authz inform of new user login EV_AUTHZ_USER_NOT_AUTHORIZED
