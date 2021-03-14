@@ -1,3 +1,7 @@
+Version 4.10.14
+===============
+Yuneta agent: add 'check-realm' command to test if a realm exists
+
 Version 4.10.13
 ===============
 make commands of authz
