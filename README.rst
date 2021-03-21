@@ -142,7 +142,7 @@ excepto en la fase de instalación.
 
 * Como **root**: en Debian o similares, instalar los paquetes de desarrollo usados por :yuneta:`Yuneta`::
 
-    apt -y install autotools-dev automake autogen libtool debmake cmake gettext mercurial git psmisc liblzma-dev zlib1g-dev libpcre3-dev libcurl4-openssl-dev libldap2-dev libidn11-dev libidn2-0-dev librtmp-dev libprocps-dev uuid-dev libarchive-dev
+    apt -y install autotools-dev automake autogen libtool debmake cmake gettext mercurial git psmisc liblzma-dev zlib1g-dev libpcre3-dev libcurl4-openssl-dev libldap2-dev libidn11-dev libidn2-0-dev librtmp-dev libprocps-dev uuid-dev libarchive-dev libpq-dev postgresql-server-dev-all
 
 * En Centos o similar::
 
@@ -226,6 +226,7 @@ y en ``/proc/sys/kernel/core_uses_pid`` poner 0 si no quieres que se añada el p
         git clone https://github.com/yuneta/c-rc_treedb /yuneta/development/yuneta/^yuneta/c-rc_treedb
         git clone https://github.com/yuneta/js-core /yuneta/development/yuneta/^yuneta/js-core
         git clone https://github.com/yuneta/c-tls /yuneta/development/yuneta/^yuneta/c-tls
+        git clone https://github.com/yuneta/c-postgres /yuneta/development/yuneta/^yuneta/c-postgres
         git clone https://github.com/yuneta/packages /yuneta/development/yuneta/^yuneta/packages
         git clone https://github.com/yuneta/tests-y /yuneta/development/yuneta/^yuneta/tests-y
         git clone https://github.com/yuneta/web-skeleton3 /yuneta/development/yuneta/^yuneta/web-skeleton3
