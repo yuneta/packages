@@ -13,6 +13,7 @@ add_subdirectory(logcenter)
 add_subdirectory(emu_device)
 add_subdirectory(controlcenter)
 add_subdirectory(sgateway)
+add_subdirectory(dba_postgres)
 
 # compile in Release mode optimized but adding debug symbols, useful for profiling :
 #
