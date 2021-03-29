@@ -1,5 +1,10 @@
-Version 4.10.15?
+Version 4.10.17?
 ===============
+dbsimple2: implement dbattrs_remove_persistent()
+
+Version 4.10.16
+===============
+fix openssl
 Add c-postgres project
 Create yuno dba_postgres
 
