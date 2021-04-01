@@ -2,6 +2,8 @@ Version 4.10.17?
 ===============
 dbsimple2: implement dbattrs_remove_persistent()
 ybatch: add color
+c_iogate: fix lost memory
+c-core: remove old code
 
 Version 4.10.16
 ===============
