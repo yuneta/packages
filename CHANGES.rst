@@ -4,6 +4,7 @@ dbsimple2: implement dbattrs_remove_persistent()
 ybatch: add color
 c_iogate: fix lost memory
 c-core: remove old code
+c_qiogate: alert queue size configurable; enqueue msg with metadata is configurable
 
 Version 4.10.16
 ===============
