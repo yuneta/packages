@@ -5,6 +5,7 @@ ybatch: add color
 c_iogate: fix lost memory
 c-core: remove old code
 c_qiogate: alert queue size configurable; enqueue msg with metadata is configurable
+ginsfsm: new api gobj_set_volatil()
 
 Version 4.10.16
 ===============
