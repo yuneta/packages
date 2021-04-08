@@ -1,11 +1,13 @@
-Version 4.10.17?
-===============
+Version 4.11.0
+==============
+dba_postgres ok, first version
 dbsimple2: implement dbattrs_remove_persistent()
 ybatch: add color
 c_iogate: fix lost memory
 c-core: remove old code
 c_qiogate: alert queue size configurable; enqueue msg with metadata is configurable
 ginsfsm: new api gobj_set_volatil()
+remove RESOURCE_WEBIX_SCHEMA from resource.h
 
 Version 4.10.16
 ===============
