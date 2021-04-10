@@ -1,3 +1,8 @@
+Version 4.11.1
+==============
+remove tranger from tasks
+update libuv to 1.41.0
+
 Version 4.11.0
 ==============
 dba_postgres ok, first version
