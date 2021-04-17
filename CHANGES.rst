@@ -1,10 +1,7 @@
-Version 4.11.3
+Version 4.12.0
 ==============
 c_iogate: miss kw_incref, lost memory
-
-
-Version 4.11.2
-==============
+DANGER tcps allowed_ips, tcp destroy if volatil
 new api ghelpers: trq_size_by_key
 
 Version 4.11.1
