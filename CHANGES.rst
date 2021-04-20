@@ -1,3 +1,7 @@
+Version 4.12.1 ?
+==============
+Shortcut: #define str2json legalstring2json"
+
 Version 4.12.0
 ==============
 c_iogate: miss kw_incref, lost memory
