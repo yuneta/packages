@@ -1,5 +1,8 @@
 #!/bin/bash
 
+mkdir -p ~/bin/
+cp -u /yuneta/development/yuneta/^yuneta/packages/yuneta-pull-from-github.sh ~/bin/
+
 ##########################################
 #       external-libs
 ##########################################

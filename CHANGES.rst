@@ -1,6 +1,8 @@
 Version 4.12.1 ?
 ==============
 Shortcut: #define str2json legalstring2json"
+Add certs to agent
+Add in recompila.sh file yuneta-pull-from-github.sh to ~/bin/
 
 Version 4.12.0
 ==============
