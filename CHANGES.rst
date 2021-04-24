@@ -1,3 +1,7 @@
+Version 4.12.2?
+==============
+
+
 Version 4.12.1
 ==============
 Shortcut: #define str2json legalstring2json"
