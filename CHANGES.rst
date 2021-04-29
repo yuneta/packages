@@ -1,6 +1,6 @@
 Version 4.12.2?
 ==============
-
+c_task: add exec_timeout to tasks, add result in stop message
 
 Version 4.12.1
 ==============
