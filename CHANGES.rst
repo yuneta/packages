@@ -1,6 +1,8 @@
 Version 4.12.2?
 ==============
 c_task: add exec_timeout to tasks, add result in stop message
+add __username__ to gss-upd-s0
+dba_postgres: admit str as string, int as integer, bool as boolean
 
 Version 4.12.1
 ==============
