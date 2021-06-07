@@ -1,3 +1,8 @@
+Version 4.12.3?
+==============
+NOOOO, fallo generalizado, revierto:
+    WARNING gcflag_manual_start used in gobj_stop_tree() too: stop must be manual
+
 Version 4.12.2
 ==============
 c_task: add exec_timeout to tasks, add result in stop message
