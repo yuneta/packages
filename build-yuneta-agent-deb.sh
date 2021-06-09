@@ -32,15 +32,16 @@ mkdir -p $PACKAGE/etc/profile.d
 mkdir -p $PACKAGE/yuneta/agent
 mkdir -p $PACKAGE/yuneta/bin
 mkdir -p $PACKAGE/yuneta/gui
-mkdir -p $PACKAGE/yuneta/public
 mkdir -p $PACKAGE/yuneta/realms
 mkdir -p $PACKAGE/yuneta/repos
+mkdir -p $PACKAGE/yuneta/store
 mkdir -p $PACKAGE/yuneta/share
 
 cp -a /yuneta/bin/y* $PACKAGE/yuneta/bin/
 cp -a /yuneta/agent $PACKAGE/yuneta/
 cp -a --dereference /yuneta/bin/nginx/ $PACKAGE/yuneta/bin/
 cp -a --dereference /yuneta/bin/ncurses/ $PACKAGE/yuneta/bin/
+cp -a --dereference /yuneta/share/ $PACKAGE/yuneta/share/
 cp /yuneta/agent/service/yuneta_agent $PACKAGE/etc/init.d
 
 cat <<EOF >./$PACKAGE/etc/profile.d/yuneta.sh
@@ -65,7 +66,7 @@ Section: net
 Installed-Size: $SIZEX
 Homepage: yuneta.io
 Priority: Optional
-Depends: debconf, sudo, rsync, tree, vim, curl, adduser, libc6,  libssl1.1 | libssl1.0.2 | libssl1.0.0
+Depends: debconf, sudo, rsync, tree, vim, curl, adduser, libc6, libssl1.1.1
 Description: Yuneta agent run-time.
  Install this run-time and be a Yuneta's node. Search and Select the Realms to Belong.
 EOF
@@ -90,20 +91,9 @@ setup_yuneta_user() {
 
 fix_permissions() {
     chown yuneta:yuneta /yuneta -R
-    chmod g+w /yuneta
-    chmod g+w /yuneta/bin
-    chmod g+w /yuneta/gui
-    chmod g+w /yuneta/public
-    chmod g+w /yuneta/realms
-    chmod g+w /yuneta/repos
-    chmod g+w /yuneta/share
-    chmod g+s /yuneta
-    chmod g+s /yuneta/bin
-    chmod g+s /yuneta/gui
-    chmod g+s /yuneta/public
-    chmod g+s /yuneta/realms
-    chmod g+s /yuneta/repos
-    chmod g+s /yuneta/share
+    find /yuneta -type d -exec chmod g+s {} \;
+    find /yuneta -type d -exec chmod g+w {} \;
+    find /yuneta -type f -exec chmod g+w {} \;
 }
 
 case "\$1" in
