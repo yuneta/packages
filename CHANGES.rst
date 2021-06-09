@@ -1,9 +1,14 @@
-Version 4.12.3?
-==============
+Version 5.0.0
+=============
 NOOOO, fallo generalizado, revierto:
     WARNING gcflag_manual_start used in gobj_stop_tree() too: stop must be manual
 Add uname info to __yuno__
 
+IOGate, add send_type; now you can send to all destinations
+
+Websocket as pipe item.
+
+DANGER: TLS only for agent.
 
 Version 4.12.2
 ==============
