@@ -66,7 +66,7 @@ Section: net
 Installed-Size: $SIZEX
 Homepage: yuneta.io
 Priority: Optional
-Depends: debconf, sudo, rsync, tree, vim, curl, adduser, libc6, libssl1.1.1
+Depends: debconf, sudo, rsync, tree, vim, curl, adduser, libc6, libssl1.1
 Description: Yuneta agent run-time.
  Install this run-time and be a Yuneta's node. Search and Select the Realms to Belong.
 EOF
@@ -210,4 +210,4 @@ rm -f ~/deb-build/$ARCHITECTURE/$PACKAGE.deb
 #----------------------------------------#
 dpkg -b $PACKAGE
 
-cp ~/deb-build/$ARCHITECTURE/$PACKAGE.deb /yuneta/development/yuneta/^yuneta/docs/docs/installation/downloads
+cp ~/deb-build/$ARCHITECTURE/$PACKAGE.deb ~
