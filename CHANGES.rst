@@ -1,3 +1,17 @@
+Version 4.15.0
+==============
+
+A new feature: node owner, the owner of a yuneta (prod/staging/test/dev) node governed by a yuneta agent
+
+Global variables::
+
+    __node_owner__
+
+New Api::
+
+    gobj_register_node_owner(node_owner, overwrite)
+    node_ower = gobj_node_owner()
+
 Version 4.13.3
 ==============
 ycommand now is interactive.
