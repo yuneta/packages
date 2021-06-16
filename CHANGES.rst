@@ -1,7 +1,7 @@
-Version 4.15.0
+Version 4.14.0
 ==============
 
-A new feature: node owner, the owner of a yuneta (prod/staging/test/dev) node governed by a yuneta agent
+A new feature: node owner, the owner of a (prod/staging/test/dev) node governed by a yuneta agent
 
 Global variables::
 
@@ -9,8 +9,24 @@ Global variables::
 
 New Api::
 
-    gobj_register_node_owner(node_owner, overwrite)
     node_ower = gobj_node_owner()
+
+In the agent configuration __yuneta_agent.json__ ::
+
+    "yuno": {
+        "node_owner": "mulesol."        <-- WARNING see the point!
+    },
+
+The output url where the agent will connect is (see the only one point) ::
+
+    (^^__node_owner__^^)(^^__sys_machine__^^).(^^__output_url__^^)'
+
+
+For example (see that the first point belongs to __node_owner__ variable ::
+
+    "mulesol.x86-64.yunetacontrol.com"
+
+
 
 Version 4.13.3
 ==============
