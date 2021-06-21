@@ -1,7 +1,7 @@
 Version 4.14.1?
 ==============
-logcenter: inform each 24hours about low free disk/mem
-
+logcenter: inform each 24hours about low free disk/mem TODO no funciona
+__yuno__ command "write_str" let empty strings (value='')
 
 
 Version 4.14.0
