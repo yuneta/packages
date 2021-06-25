@@ -1,8 +1,15 @@
-Version 4.14.1?
+Version 4.15.0
 ==============
 logcenter: inform each 24hours about low free disk/mem TODO no funciona
 __yuno__ command "write_str" let empty strings (value='')
+Quito list_persistent_attrs del agente.
 
+WARNING Persistent attrs now can be save/remove individually
+    gobj_save_persistent_attrs(hgobj gobj, json_t *attrs)
+    gobj_remove_persistent_attrs(hgobj gobj, json_t *attrs)
+
+    attrs can be a string, a list of keys, or a dict with the keys to save/delete
+    if attrs is empty save/remove all attrs
 
 Version 4.14.0
 ==============
