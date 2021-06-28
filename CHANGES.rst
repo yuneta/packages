@@ -1,6 +1,6 @@
 Version 4.15.0
 ==============
-logcenter: inform each 24hours about low free disk/mem TODO no funciona
+logcenter: inform each 24hours about low free disk/mem
 __yuno__ command "write_str" let empty strings (value='')
 Quito list_persistent_attrs del agente.
 
