@@ -1,3 +1,7 @@
+Version 4.15.1?
+==============
+ycommand -i interactive use the same history file (history.txt) as cli
+
 Version 4.15.0
 ==============
 logcenter: inform each 24hours about low free disk/mem
