@@ -1,3 +1,7 @@
+Version 4.15.2?
+==============
+cli - print data of command answer when it's a string
+
 Version 4.15.1
 ==============
 ycommand -i interactive use the same history file (history.txt) as cli
