@@ -1,6 +1,7 @@
-Version 4.15.2?
+Version 4.15.2
 ==============
 cli - print data of command answer when it's a string
+change of #ifndef by #pragma once in all .h files
 
 Version 4.15.1
 ==============
