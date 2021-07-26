@@ -1,3 +1,8 @@
+Version 4.15.3
+==============
+Add command global-variables to __yuno__
+
+
 Version 4.15.2
 ==============
 cli - print data of command answer when it's a string
