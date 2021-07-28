@@ -2,6 +2,16 @@ Version 4.15.4?
 ==============
 Update liboauth2 version.
 
+ *  HACK Json Web Token must arrive in kw's attribute:
+ *      1) "jwt"
+ *          from browsers for example; they implement refresh of tokens.
+ *
+ *      2) "access_token", "refresh_token", ["id_token"]
+ *          from backend, c_authz must implement the refresh
+ *          "id_token" when is present it's a offline tokens with a long refresh time.
+ *          If id_token is not present then access_token/refresh_token must be used.
+
+ Mejoradas las task de keycloak para crear keycloaks y offline tokens.
 
 Version 4.15.3
 ==============
