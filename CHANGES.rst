@@ -13,6 +13,8 @@ Update liboauth2 version.
 
  Mejoradas las task de keycloak para crear keycloaks y offline tokens.
 
+Protect sys.machine and change _ by -
+
 Version 4.15.3
 ==============
 Add command global-variables to __yuno__
