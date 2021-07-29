@@ -15,6 +15,8 @@ Update liboauth2 version.
 
 Protect sys.machine and change _ by -
 
+HACK full url of agent yunetacontrol: (^^__sys_machine__^^).(^^__node_owner__^^).(^^__output_url__^^)
+
 Version 4.15.3
 ==============
 Add command global-variables to __yuno__
