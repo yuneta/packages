@@ -17,6 +17,13 @@ Protect sys.machine and change _ by -
 
 HACK full url of agent yunetacontrol: (^^__sys_machine__^^).(^^__node_owner__^^).(^^__output_url__^^)
 
+Warning node_owner empty in agent. The yuneta_agent.json file must contains::
+
+    "environment": {
+        "node_owner": "some owner node name"
+    },
+
+
 Version 4.15.3
 ==============
 Add command global-variables to __yuno__
