@@ -1,6 +1,6 @@
-Version 4.15.4?
+Version 4.15.4
 ==============
-Update liboauth2 version.
+HACK: Update liboauth2 version. (recompila!)
 
  *  HACK Json Web Token must arrive in kw's attribute:
  *      1) "jwt"
@@ -15,7 +15,7 @@ Update liboauth2 version.
 
 Protect sys.machine and change _ by -
 
-HACK full url of agent yunetacontrol: (^^__sys_machine__^^).(^^__node_owner__^^).(^^__output_url__^^)
+HACK: full url of agent yunetacontrol: (^^__sys_machine__^^).(^^__node_owner__^^).(^^__output_url__^^)
 
 Warning node_owner empty in agent. The yuneta_agent.json file must contains::
 
