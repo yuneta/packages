@@ -1,3 +1,8 @@
+Version 4.15.5
+==============
+
+Fix: json config lines with more of 1024 chars failed.
+
 Version 4.15.4
 ==============
 HACK: Update liboauth2 version. (recompila!)
