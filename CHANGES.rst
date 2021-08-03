@@ -1,7 +1,13 @@
+Version 4.15.7
+==============
+controlcenter funcionando desde el agente y con conexión directa
+WARNING agent: cambio gobj_child_by_name(gobj, "__input_side__", 0) por gobj_find_service("__input_side__", TRUE)
+
 Version 4.15.6
 ==============
+Re-Fix: json config lines with more of 1024 chars failed.
+add 'ping' command to agent.
 
-Fix: json config lines with more of 1024 chars failed.
 
 Version 4.15.5
 ==============
