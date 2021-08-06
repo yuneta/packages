@@ -1,3 +1,8 @@
+Version 4.15.9?
+==============
+
+WARNING c_postgres change 'opened' by 'connected'; c_task change 'opened' by 'connected'
+
 Version 4.15.8
 ==============
 Add ON_ID_NAK event
