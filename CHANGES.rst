@@ -1,5 +1,6 @@
-Version 4.15.9?
+Version 4.15.9
 ==============
+ycommand,ytests,ystats,ybatch with Oauth2 authenticacion
 
 WARNING c_postgres change 'opened' by 'connected'; c_task change 'opened' by 'connected'
 
