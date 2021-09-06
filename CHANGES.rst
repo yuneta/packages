@@ -1,3 +1,7 @@
+Version 4.16.0
+==============
+task_authentication does the logout
+
 Version 4.15.9
 ==============
 ycommand,ytests,ystats,ybatch with Oauth2 authenticacion
