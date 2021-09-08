@@ -1,6 +1,11 @@
+Version 4.16.2
+==============
+external-libs: upgraded to pcre2-10.37 and OpenSSL_1_1_1l
+
 Version 4.16.1
 ==============
 change realm_name by realm_role
+add cmds list-size and list-queues to postgres gclass
 
 Version 4.16.0
 ==============
