@@ -1,3 +1,7 @@
+Version 4.17.1
+==============
+dba_posgres: se crea automaticamente el campo en las tablas: ``__created_at__``
+
 Version 4.17.0
 ==============
 WARNING Need recompila
