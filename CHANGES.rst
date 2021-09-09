@@ -1,6 +1,8 @@
-Version 4.16.2
+Version 4.17.0
 ==============
+WARNING Need recompila
 external-libs: upgraded to pcre2-10.37 and OpenSSL_1_1_1l
+fix problem in Task gclass.
 
 Version 4.16.1
 ==============
