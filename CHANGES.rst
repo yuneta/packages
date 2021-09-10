@@ -1,3 +1,9 @@
+Version 4.17.2
+==============
+Postgres gclass is now an Object with __queries_in_queue__
+    If in the query there is `dst` then use it to use gobj_send_event()
+    else use gobj_publish_event()
+
 Version 4.17.1
 ==============
 dba_posgres: se crea automaticamente el campo en las tablas: ``__created_at__``
