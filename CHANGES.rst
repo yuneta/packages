@@ -1,3 +1,8 @@
+Version 4.17.3
+==============
+add to dba_postgres more log size
+Authz - don't check iat field of jwt (verify.iat=skip)
+
 Version 4.17.2
 ==============
 Postgres gclass is now an Object with __queries_in_queue__
