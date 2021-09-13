@@ -1,3 +1,7 @@
+Version 4.17.4
+==============
+node_uuid() get uuid of disk partition more old
+
 Version 4.17.3
 ==============
 add to dba_postgres more log size
