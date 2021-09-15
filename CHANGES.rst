@@ -1,3 +1,8 @@
+Version 4.18.0
+==============
+WARNING recompila: libunwind updated.
+calculate node uuid: use /proc/cpuinfo if it has serial number (rapsberry), else use uuid of disk.
+
 Version 4.17.5
 ==============
 node_uuid() get uuid of disk partition more old
