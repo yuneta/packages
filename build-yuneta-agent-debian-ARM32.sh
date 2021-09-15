@@ -1,6 +1,6 @@
 #!/bin/sh
 PROYECT="yuneta-agent"
-VERSION="4.17.5"
+VERSION="4.18.0"
 RELEASE="1"
 ARCHITECTURE="arm32"
 
