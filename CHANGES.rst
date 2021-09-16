@@ -1,3 +1,7 @@
+Version 4.18.1
+==============
+treedb: set wild conversion to real and integer by default but with warning
+
 Version 4.18.0
 ==============
 WARNING recompila: libunwind updated.
