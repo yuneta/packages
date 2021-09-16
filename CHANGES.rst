@@ -1,3 +1,7 @@
+Version 4.18.2
+==============
+logcenter: inform of node_uuid
+
 Version 4.18.1
 ==============
 treedb: set wild conversion to real and integer by default but with warning
