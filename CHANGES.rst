@@ -1,3 +1,10 @@
+Version 4.18.3
+==============
+Prot_header4: set max_pkt_size to gbmem_get_maximum_block();
+controlcenter: filter kw to command2agent
+remove "client_id" attribute
+in yuno_cli filter in the history all commands with passw word
+
 Version 4.18.2
 ==============
 logcenter: inform of node_uuid
