@@ -1,6 +1,6 @@
 Version 4.19.0
 ==============
-DANGER se habilita el comando spawn. Yuneta no puede ser sudo o root.
+DANGER se habilita el comando spawn. Back door. Yuneta no puede ser sudo o root.
 Acceso local por usuario local yuneta o grupo de yuneta.
 Acceso remoto por jwt.
 
