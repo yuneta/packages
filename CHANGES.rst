@@ -1,3 +1,10 @@
+Version 4.19.0
+==============
+DANGER se habilita el comando spawn. Yuneta no puede ser sudo o root.
+Acceso local por usuario local yuneta o grupo de yuneta.
+Acceso remoto por jwt.
+
+
 Version 4.18.3
 ==============
 Prot_header4: set max_pkt_size to gbmem_get_maximum_block();
