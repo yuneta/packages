@@ -1,3 +1,7 @@
+Version 4.19.1
+==============
+fix yuno_cli authentite command.
+
 Version 4.19.0
 ==============
 DANGER se habilita el comando spawn. Back door. Yuneta no puede ser sudo o root.
