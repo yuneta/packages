@@ -1,3 +1,7 @@
+Version 4.19.2
+==============
+add SDF_STATS to 'connected' attr
+
 Version 4.19.1
 ==============
 fix yuno_cli authentite command.
