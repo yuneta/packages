@@ -1,8 +1,10 @@
 Version 4.19.2
 ==============
-WARNING Connex: remove hard creating of bottom as tcp0: only if bottom is not set
-WARNING Connexs: remove hard creating of bottom as tcp0: only if bottom is not set
+DANGER Connex: remove hard creating of bottom as tcp0: only if bottom is not set
+DANGER Connexs: remove hard creating of bottom as tcp0: only if bottom is not set
+DANGER Connex,Connexs: creating of implicit Tcp0 move from mt_create to mt_start
 add SDF_STATS to 'connected' attr
+DANGER Connex,Connexs: urls/timeout_waiting_connected/timeout_between_connections/timeout_inactivity change to SDF_WR|SDF_PERSIST
 
 Version 4.19.1
 ==============
