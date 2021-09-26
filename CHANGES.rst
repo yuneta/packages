@@ -1,5 +1,7 @@
 Version 4.19.2
 ==============
+WARNING Connex: remove hard creating of bottom as tcp0: only if bottom is not set
+WARNING Connexs: remove hard creating of bottom as tcp0: only if bottom is not set
 add SDF_STATS to 'connected' attr
 
 Version 4.19.1
