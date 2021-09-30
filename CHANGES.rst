@@ -1,3 +1,7 @@
+Version 4.19.3?
+==============
+new api: nice_size()
+
 Version 4.19.2
 ==============
 DANGER Connex: remove hard creating of bottom as tcp0: only if bottom is not set
