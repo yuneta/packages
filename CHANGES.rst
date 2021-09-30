@@ -1,6 +1,7 @@
 Version 4.19.3?
 ==============
 new api: nice_size()
+add library m to all projects (by use of math in nice_size)
 
 Version 4.19.2
 ==============
