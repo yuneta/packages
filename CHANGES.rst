@@ -1,3 +1,8 @@
+Version 4.19.4?
+==============
+kw_get_int() with KW_WILD_NUMBER use strtoll() with base 0: parse done by strtoll
+fix istream_clear(): check null
+
 Version 4.19.3
 ==============
 new api: nice_size()
