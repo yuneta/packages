@@ -1,3 +1,7 @@
+Version 4.20.0
+==============
+Include Prot_modbus_master and Serial gclass
+
 Version 4.19.4
 ==============
 kw_get_int() with KW_WILD_NUMBER use strtoll() with base 0: parse done by strtoll
