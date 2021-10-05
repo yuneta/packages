@@ -1,3 +1,8 @@
+Version 4.20.1
+==============
+Postgres: add command "view-channels"
+Postgres: fix crash when postgres disconnect
+
 Version 4.20.0
 ==============
 Include Prot_modbus_master and Serial gclass
