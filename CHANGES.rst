@@ -1,3 +1,8 @@
+Version 4.20.2?
+==============
+Postgres: add more stats and logs
+gobj: gobj_send_event(): don't send if obflag_destroying
+
 Version 4.20.1
 ==============
 Postgres: add command "view-channels"
