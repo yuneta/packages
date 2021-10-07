@@ -2,6 +2,11 @@ Version 4.20.2?
 ==============
 Postgres: add more stats and logs
 gobj: gobj_send_event(): don't send if obflag_destroying
+Task: end_task will end with result values:
+        0 (task ok),
+        -1 (task error by some action),
+        -2 (timeout of some action)
+
 
 Version 4.20.1
 ==============
