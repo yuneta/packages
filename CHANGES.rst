@@ -1,6 +1,7 @@
 Version 4.20.3
 ==============
 Fix postgres
+New api: gobj_is_destroying()
 
 Version 4.20.2
 ==============
