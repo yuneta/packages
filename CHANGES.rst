@@ -1,7 +1,9 @@
-Version 4.20.4?
+Version 4.20.4
 ==============
 Fix c_serial.h
 Upgrade to nginx-1.20.1
+Short the postgres error message
+WARNING: agent: public services are for all realms.
 
 Version 4.20.3
 ==============
