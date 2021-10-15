@@ -1,3 +1,8 @@
+Version 4.20.5
+==============
+WARNING agent/realms: range_port/last_port removed from realms, now it's in agent as attribute.
+treedb: cmd_get_node fix id
+
 Version 4.20.4
 ==============
 Fix c_serial.h
