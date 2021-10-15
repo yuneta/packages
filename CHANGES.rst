@@ -1,6 +1,7 @@
 Version 4.20.5
 ==============
 WARNING agent/realms: range_port/last_port removed from realms, now it's in agent as attribute.
+    !!!agent treedb must be removed!!!
 treedb: cmd_get_node fix id
 
 Version 4.20.4
