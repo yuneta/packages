@@ -1,10 +1,11 @@
-Version 4.20.6?
+Version 4.20.6
 ==============
 Warning "Using non-local ip WITHOUT TLS"
 delete range_port from deploy json files
 ytls: remove required from library: default "openssl"
 ghelpers: remove host2ip(), using a obsolete gethostnyname() and really did not convert to numeric ip
 c_prot_http_srv: timer start is manual
+fix c_prot_modbus_master
 
 Version 4.20.5
 ==============
