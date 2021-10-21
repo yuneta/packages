@@ -1,3 +1,8 @@
+Version 4.20.7?
+==============
+Agent: pty pseudoterminal
+Agent: uuid command (uuid of node)
+
 Version 4.20.6
 ==============
 Warning "Using non-local ip WITHOUT TLS"
