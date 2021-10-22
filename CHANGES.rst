@@ -2,6 +2,7 @@ Version 4.20.7?
 ==============
 Agent: pty pseudoterminal
 Agent: uuid command (uuid of node)
+GHelpers: new api: kw_size()
 
 Version 4.20.6
 ==============
