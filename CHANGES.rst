@@ -4,6 +4,7 @@ Agent: pty pseudoterminal
 Agent: uuid command (uuid of node)
 GHelpers: new api: kw_size()
 Ginsfsm: new api: gobj_nearest_top_unique()
+yuno_cli: fix: name of IEvent_cli unique duplicated
 
 Version 4.20.6
 ==============
