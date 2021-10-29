@@ -15,6 +15,7 @@ ytls: remove required from library: default "openssl"
 ghelpers: remove host2ip(), using a obsolete gethostnyname() and really did not convert to numeric ip
 c_prot_http_srv: timer start is manual
 fix c_prot_modbus_master
+ginsfsm: new api: gobj_is_imminent_destroy(), gobj_set_imminent_destroy(), gobj_destroy_named_tree()
 
 Version 4.20.5
 ==============
