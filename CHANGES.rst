@@ -1,6 +1,6 @@
-Version 4.20.7?
+Version 4.21.0
 ==============
-Agent: pty pseudoterminal
+Agent: pty pseudoterminal, only working in ycommand
 Agent: uuid command (uuid of node)
 GHelpers: new api: kw_size()
 Ginsfsm: new api: gobj_nearest_top_unique()
