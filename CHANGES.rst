@@ -1,3 +1,7 @@
+Version 4.22.1
+==============
+FIX register/find public services in agent
+
 Version 4.22.0
 ==============
 Logcenter Summary: send yuneta version
