@@ -1,3 +1,9 @@
+Version 4.22.0
+==============
+Logcenter Summary: send yuneta version
+cli: No pases escapes ni utf8
+ncurses: add version 6.3
+
 Version 4.21.0
 ==============
 Agent: pty pseudoterminal, only working in ycommand
