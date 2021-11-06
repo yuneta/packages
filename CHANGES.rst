@@ -1,3 +1,12 @@
+Version 5.0.0
+=============
+agent: increase size of columns
+ghelpers: LOG_HND_OPT_DEEP_TRACE
+ginsfsm: new api: gobj_set_deep_tracing()
+c-core: remove running_as_daemon(), add deep_tracing()
+yuno: new command: cmd_set_deep_trace()
+remote console OK through controlcenter
+
 Version 4.22.1
 ==============
 FIX register/find public services in agent
