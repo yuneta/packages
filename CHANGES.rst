@@ -1,3 +1,9 @@
+Version 5.0.1
+=============
+ginsfsm: add global trace authzs
+ginsfsm: new api gobj_services()
+WARNING refactoring of all functions with (, const char *fmt, ...)
+
 Version 5.0.0
 =============
 agent: increase size of columns
