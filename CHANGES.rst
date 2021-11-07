@@ -1,3 +1,9 @@
+Version 5.0.2
+=============
+fix permission "read" in c_node
+add cmd users to c_authz
+ginsfsm: fix some errors
+
 Version 5.0.1
 =============
 ginsfsm: add global trace authzs
