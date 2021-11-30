@@ -1,3 +1,10 @@
+Version 5.0.4
+=============
+fix ac_read_file in ycommand
+add launch_id field to agent treedb
+add util library
+pty_sync_spawn() to 11_run_command.c from ghelpers. Add util lib to CMakeLists files
+
 Version 5.0.2
 =============
 fix permission "read" in c_node
