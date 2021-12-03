@@ -142,9 +142,11 @@ excepto en la fase de instalación.
 
 * Como **root**: en Debian o similares, instalar los paquetes de desarrollo usados por :yuneta:`Yuneta`::
 
-    apt -y install autotools-dev automake autogen libtool debmake cmake gettext mercurial git psmisc liblzma-dev zlib1g-dev libpcre3-dev libcurl4-openssl-dev libldap2-dev libidn11-dev libidn2-0-dev librtmp-dev libprocps-dev uuid-dev libarchive-dev libpq-dev
+    apt -y install autotools-dev automake autogen libtool debmake cmake gettext mercurial git psmisc liblzma-dev zlib1g-dev libpcre3-dev libcurl4-openssl-dev libldap2-dev libidn11-dev libidn2-0-dev librtmp-dev libprocps-dev uuid-dev libarchive-dev libpq-dev can-utils libsocketcan2 libsocketcan-dev
 
 * En Centos o similar::
+
+    # ***WARNING** The Centos installation will no longer be updated.
 
     # sudo usermod -aG wheel yuneta # wheel group has sudo privileges
 

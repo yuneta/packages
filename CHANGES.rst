@@ -1,3 +1,11 @@
+Version 5.0.6?
+=============
+Add canbus dependencies
+
+Version 5.0.5
+=============
+fix open-console cx/cy
+
 Version 5.0.4
 =============
 fix ac_read_file in ycommand
