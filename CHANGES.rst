@@ -1,6 +1,8 @@
-Version 5.0.6?
+Version 5.0.6
 =============
 Add canbus dependencies
+New gclass canbus0, prot_canopen
+Put __yuneta_version__ in all core yunos
 
 Version 5.0.5
 =============
