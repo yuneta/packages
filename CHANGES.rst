@@ -1,3 +1,7 @@
+Version 5.0.7?
+=============
+add JANSSON_ATTRS((format(printf, )) to gbuf_printf/gbuf_vprintf
+
 Version 5.0.6
 =============
 Add canbus dependencies
