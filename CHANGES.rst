@@ -1,6 +1,7 @@
 Version 5.0.7?
 =============
 add JANSSON_ATTRS((format(printf, )) to gbuf_printf/gbuf_vprintf
+fix warnings gbuf_printf
 
 Version 5.0.6
 =============
