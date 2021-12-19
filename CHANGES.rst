@@ -1,3 +1,7 @@
+Version 5.0.8?
+=============
+__deep_trace__ as attribute, new api: gobj_get_deep_tracing()
+
 Version 5.0.7
 =============
 add JANSSON_ATTRS((format(printf, )) to gbuf_printf/gbuf_vprintf
