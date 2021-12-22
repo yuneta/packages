@@ -1,4 +1,4 @@
-Version 5.0.8?
+Version 5.0.8
 =============
 __deep_trace__ as attribute, new api: gobj_get_deep_tracing()
 disable brotlin in curl
