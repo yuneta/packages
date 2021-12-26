@@ -56,6 +56,11 @@ rm -rf build; mkdir build
 cd build; cmake -DCMAKE_BUILD_TYPE=Debug ..
 make install
 
+cd /yuneta/development/yuneta/^yuneta/c-iot
+rm -rf build; mkdir build
+cd build; cmake -DCMAKE_BUILD_TYPE=Debug ..
+make install
+
 cd /yuneta/development/yuneta/^yuneta/c-rc_sqlite
 rm -rf build; mkdir build
 cd build; cmake -DCMAKE_BUILD_TYPE=Debug ..
