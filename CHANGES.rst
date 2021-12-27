@@ -2,6 +2,8 @@ Version 5.1.1?
 =============
 add character_device attribute to Connex, to work with character devices as /dev/ttyUSB0
 logger in stdout with color
+use gobj as gobj_name in commands of __yuno__
+use gclass as gclass_name in commands of __yuno_
 
 Version 5.1.0
 =============
