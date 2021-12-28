@@ -4,6 +4,7 @@ add character_device attribute to Connex, to work with character devices as /dev
 logger in stdout with color
 use gobj as gobj_name in commands of __yuno__
 use gclass as gclass_name in commands of __yuno_
+c_timer and c_connex improved
 
 Version 5.1.0
 =============
