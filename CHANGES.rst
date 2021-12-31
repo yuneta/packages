@@ -1,4 +1,4 @@
-Version 5.1.1?
+Version 5.1.1
 =============
 add character_device attribute to Connex, to work with character devices as /dev/ttyUSB0
 logger in stdout with color
