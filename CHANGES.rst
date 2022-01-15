@@ -1,3 +1,8 @@
+Version 5.1.2?
+=============
+fix ystats connection
+
+
 Version 5.1.1
 =============
 add character_device attribute to Connex, to work with character devices as /dev/ttyUSB0
