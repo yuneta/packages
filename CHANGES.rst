@@ -1,4 +1,4 @@
-Version 5.1.2?
+Version 5.1.2
 =============
 fix ystats connection
 enable ystats to execute commands
