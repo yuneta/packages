@@ -1,6 +1,7 @@
 Version 5.1.2?
 =============
 fix ystats connection
+enable ystats to execute commands
 
 
 Version 5.1.1
