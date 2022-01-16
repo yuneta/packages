@@ -1,4 +1,4 @@
-Version 5.1.3?
+Version 5.1.4
 =============
 canbus0, don't stop when write return -1
 
