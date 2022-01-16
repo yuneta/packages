@@ -1,8 +1,11 @@
+Version 5.1.3?
+=============
+canbus0, don't stop when write return -1
+
 Version 5.1.2
 =============
 fix ystats connection
 enable ystats to execute commands
-
 
 Version 5.1.1
 =============
