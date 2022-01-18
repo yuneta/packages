@@ -1,3 +1,7 @@
+Version 5.1.5
+=============
+fix Prot_modbus_master
+
 Version 5.1.4
 =============
 canbus0, don't stop when write return -1
