@@ -1,3 +1,8 @@
+Version 5.1.6?
+=============
+Fix watchfs: remove chdir(path)
+web-skeletons: use relative path (./static)
+
 Version 5.1.5
 =============
 fix Prot_modbus_master
