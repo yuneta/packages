@@ -1,7 +1,8 @@
-Version 5.1.6?
+Version 5.1.6
 =============
 Fix watchfs: remove chdir(path)
 web-skeletons: use relative path (./static)
+yuno_cli: shortkeys with input variables $
 
 Version 5.1.5
 =============
