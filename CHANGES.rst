@@ -1,8 +1,7 @@
-Version 5.1.7?
+Version 5.2.0
 =============
 controlcenter: show `hostname` in addition
 Does public the expand_command() api (13_command_parser.h)
-yuno_cli: use id as content64 if it's empty
 
 Version 5.1.6
 =============
