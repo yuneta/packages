@@ -1,3 +1,7 @@
+Version 5.2.1
+=============
+Fix infinite loop of controlcenter
+
 Version 5.2.0
 =============
 controlcenter: show `hostname` in addition
