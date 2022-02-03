@@ -1,3 +1,8 @@
+Version 5.2.2?
+=============
+yuno command "services": add id
+fix deep trace
+
 Version 5.2.1
 =============
 Fix infinite loop of controlcenter
