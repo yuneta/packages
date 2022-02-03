@@ -1,4 +1,4 @@
-Version 5.2.2?
+Version 5.2.2
 =============
 yuno command "services": add id
 fix deep trace
