@@ -2,6 +2,7 @@ Version 5.2.2?
 =============
 yuno command "services": add id
 fix deep trace
+agent: remove bracket_paste_mode escape sequence of c_pty
 
 Version 5.2.1
 =============
