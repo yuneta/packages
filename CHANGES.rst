@@ -1,3 +1,8 @@
+Version 5.2.5?
+=============
+New yuno command: reset-all-traces
+
+
 Version 5.2.4
 =============
 Connex: table of commands: list-urls, add-url, remove-url (gobj must be persistent to save attrs)
