@@ -1,3 +1,7 @@
+Version 5.2.4
+=============
+Connex: table of commands: list-urls, add-url, remove-url (gobj must be persistent to save attrs)
+
 Version 5.2.3
 =============
 list-channels moved from iogate to yuno
