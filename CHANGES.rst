@@ -1,3 +1,10 @@
+Version 5.2.3
+=============
+list-channels moved from iogate to yuno
+new gobj api: list_gclass_gobjs(), list with child gobj's with gclass_name gclass
+gobj2json: limit only to public attrs
+yuno: new command: list-channels
+
 Version 5.2.2
 =============
 yuno command "services": add id
