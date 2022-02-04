@@ -1,4 +1,4 @@
-Version 5.2.5?
+Version 5.2.5
 =============
 New yuno command: reset-all-traces
 
