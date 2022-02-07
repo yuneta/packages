@@ -1,3 +1,7 @@
+Version 5.2.7?
+=============
+js-core: kw_get_* with verbose option
+
 Version 5.2.6
 =============
 js-core: kw_get_int, kw_get_real, kw_get_str refactoring
