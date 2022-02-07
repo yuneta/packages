@@ -1,6 +1,8 @@
-Version 5.2.6?
+Version 5.2.6
 =============
 js-core: kw_get_int, kw_get_real, kw_get_str refactoring
+Prot_modbus_master: cmd set-poll-timeout
+gobj: new global trace: subscriptions2, trace send events of publish
 
 Version 5.2.5
 =============
