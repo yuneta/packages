@@ -1,7 +1,10 @@
+Version 5.2.6?
+=============
+js-core: kw_get_int, kw_get_real, kw_get_str refactoring
+
 Version 5.2.5
 =============
 New yuno command: reset-all-traces
-
 
 Version 5.2.4
 =============
