@@ -1,6 +1,7 @@
-Version 5.2.8?
+Version 5.2.8
 =============
-IOGate add stats opened (channels opened)
+IOGate: add stats opened (channels opened)
+Prot_modbus_master: add queue to request writes
 
 Version 5.2.7
 =============
