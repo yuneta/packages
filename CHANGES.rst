@@ -1,4 +1,4 @@
-Version 5.2.7?
+Version 5.2.7
 =============
 js-core: kw_get_* with verbose option
 
