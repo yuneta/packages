@@ -1,3 +1,7 @@
+Version 5.2.9?
+=============
+Log modbus timeout
+
 Version 5.2.8
 =============
 IOGate: add stats opened (channels opened)
