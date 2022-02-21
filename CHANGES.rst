@@ -1,3 +1,7 @@
+Version 5.2.8?
+=============
+IOGate add stats opened (channels opened)
+
 Version 5.2.7
 =============
 js-core: kw_get_* with verbose option
