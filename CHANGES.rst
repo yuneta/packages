@@ -1,8 +1,9 @@
-Version 5.2.9?
+Version 5.2.9
 =============
 Log modbus timeout
 GOBJ new api gobj_write_new_json_attr()
 ycommand/yuneta use ^^ as alternative to $$
+ycommand work well with ^^
 
 Version 5.2.8
 =============
