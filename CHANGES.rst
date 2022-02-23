@@ -1,3 +1,9 @@
+Version 5.3.0?
+=============
+"Connected" -> "Connected🔵"
+"Disconnected" -> "Disconnected🔴"
+"Connecting..." -> "Connecting...🔜"
+
 Version 5.2.9
 =============
 Log modbus timeout
