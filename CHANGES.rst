@@ -1,3 +1,10 @@
+Version 5.3.1
+=============
+Elimino, no se ve bien en yuno_cli (ncurses)
+    "Connected" -> "Connected🔵"
+    "Disconnected" -> "Disconnected🔴"
+    "Connecting..." -> "Connecting...🔜"
+
 Version 5.3.0
 =============
 "Connected" -> "Connected🔵"
