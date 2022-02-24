@@ -1,3 +1,7 @@
+Version 5.4.1
+=============
+Fix publishing "__EV_STATE_CHANGED__", only when destine has in their input list
+
 Version 5.4.0
 =============
 New: global events: the first is "__EV_STATE_CHANGED__"
