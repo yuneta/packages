@@ -1,3 +1,9 @@
+Version 5.4.0
+=============
+New: global events: the first is "__EV_STATE_CHANGED__"
+Remove gobj_output_event_list()
+New api: gobj_last_state()
+
 Version 5.3.1
 =============
 Elimino, no se ve bien en yuno_cli (ncurses)
