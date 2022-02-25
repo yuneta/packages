@@ -1,6 +1,7 @@
 Version 5.4.6?
 =============
 change "new_state"/"last_state" by "current_state"/"previous_state"
+fix gobj_change_state()
 
 Version 5.4.5
 =============
