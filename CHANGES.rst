@@ -1,3 +1,11 @@
+Version 5.4.3
+=============
+gobj_stop_services must be call gobj_stop_tree always
+
+Version 5.4.2
+=============
+fix system event
+
 Version 5.4.1
 =============
 Fix publishing "__EV_STATE_CHANGED__", only when destine has in their input list
