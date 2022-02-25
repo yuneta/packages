@@ -1,4 +1,4 @@
-Version 5.4.5?
+Version 5.4.5
 =============
 Don't trace play/pause on start_stop level if gclass it's is_machine_not_tracing (too much noise)
 
