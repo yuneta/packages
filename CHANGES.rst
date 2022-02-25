@@ -1,3 +1,7 @@
+Version 5.4.4
+=============
+Fix system event
+
 Version 5.4.3
 =============
 gobj_stop_services must be call gobj_stop_tree always
