@@ -1,3 +1,8 @@
+Version 5.4.7
+=============
+fix a strange memory lost error in prot_modbus_master
+Add msg2 with unicode symbols to MSGSET_CONNECT_DISCONNECT group log messages
+
 Version 5.4.6
 =============
 change "new_state"/"last_state" by "current_state"/"previous_state"
