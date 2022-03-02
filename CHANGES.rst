@@ -1,3 +1,9 @@
+Version 5.5.0
+=============
+Make Canbus0 compatible with Connex
+DANGER _create_tree() now is public as gobj_create_tree0()
+Connex: change to state ST_WAIT_CONNECTED now is internal
+
 Version 5.4.7
 =============
 fix a strange memory lost error in prot_modbus_master
