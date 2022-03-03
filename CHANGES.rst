@@ -1,3 +1,10 @@
+Version 5.5.1?
+=============
+Improve log message of trace gclass/gobj not found
+c_yuno: remove gclass or gobj not found from level traces
+new utitility: extractjson
+new stream_json_filename_parser2() can work with lists [] too instead of dict {}.
+
 Version 5.5.0
 =============
 Make Canbus0 compatible with Connex

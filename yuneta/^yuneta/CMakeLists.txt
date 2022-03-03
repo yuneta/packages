@@ -25,6 +25,7 @@ add_subdirectory(ygclass-rename)
 add_subdirectory(tests-y)
 add_subdirectory(yscapec)
 add_subdirectory(ytests)
+add_subdirectory(extractjson)
 
 
 # compile in Release mode optimized but adding debug symbols, useful for profiling :
