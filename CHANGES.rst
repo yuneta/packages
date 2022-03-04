@@ -1,4 +1,4 @@
-Version 5.5.3?
+Version 5.6.0
 =============
 Fix info-gclass-trace when passing a gobj
 New global method: mt_state_changed(gobj, kw):
@@ -7,7 +7,7 @@ New global method: mt_state_changed(gobj, kw):
         "previous_state": "",
         "current_state": ""
     }
-
+change mt_future24/mt_authorization_parser by mt_state_changed"
 
 Version 5.5.2
 =============
