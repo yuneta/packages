@@ -1,3 +1,7 @@
+Version 5.5.2
+=============
+canbus0 'put poll_start later, reading can be quick'
+
 Version 5.5.1
 =============
 Improve log message of trace gclass/gobj not found
