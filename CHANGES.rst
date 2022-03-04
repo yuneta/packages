@@ -1,3 +1,14 @@
+Version 5.5.3?
+=============
+Fix info-gclass-trace when passing a gobj
+New global method: mt_state_changed(gobj, kw):
+    If this method is defined then the __EV_STATE_CHANGED__ will not published
+    kw: {
+        "previous_state": "",
+        "current_state": ""
+    }
+
+
 Version 5.5.2
 =============
 canbus0 'put poll_start later, reading can be quick'
