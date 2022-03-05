@@ -1,3 +1,8 @@
+Version 5.6.1?
+=============
+extractjson: better examples in line doc
+new global trace level: "states" show when a state change and the event
+
 Version 5.6.0
 =============
 Fix info-gclass-trace when passing a gobj
