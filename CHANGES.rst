@@ -2,6 +2,7 @@ Version 5.6.1?
 =============
 extractjson: better examples in line doc
 new global trace level: "states" show when a state change and the event
+IEvent_srv: improve error message
 
 Version 5.6.0
 =============
