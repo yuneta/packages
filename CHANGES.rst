@@ -1,3 +1,7 @@
+Version 5.6.2?
+=============
+remove `no_autostart` attribute in json configs, not used
+
 Version 5.6.1
 =============
 extractjson: better examples in line doc
