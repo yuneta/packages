@@ -1,3 +1,7 @@
+Version 5.7.0?
+=============
+refactoring of gobj_resource/c_resource2
+
 Version 5.6.2
 =============
 remove `no_autostart` attribute in json configs, not used
