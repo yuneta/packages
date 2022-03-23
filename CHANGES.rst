@@ -1,6 +1,10 @@
 Version 5.6.2?
 =============
 remove `no_autostart` attribute in json configs, not used
+remove level trace when not exist
+new api ginsfsm: gobj_write_strn_attr()
+new api ginsfsm: gobj_reset_volatil_attrs()
+new api sdata: sdata_write_default_values()
 
 Version 5.6.1
 =============
