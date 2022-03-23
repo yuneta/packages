@@ -1,4 +1,4 @@
-Version 5.6.2?
+Version 5.6.2
 =============
 remove `no_autostart` attribute in json configs, not used
 remove level trace when not exist
