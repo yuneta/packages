@@ -1,4 +1,8 @@
-Version 5.7.0?
+Version 5.8.1?
+=============
+new utility: yclone-project
+
+Version 5.8.0
 =============
 refactoring of gobj_resource/c_resource2
 

@@ -1,7 +1,6 @@
 ##############################################
 #   CMake
 ##############################################
-cmake_minimum_required(VERSION 2.8)
 
 ##############################################
 #   Source
@@ -26,6 +25,7 @@ add_subdirectory(tests-y)
 add_subdirectory(yscapec)
 add_subdirectory(ytests)
 add_subdirectory(extractjson)
+add_subdirectory(yclone-project)
 
 
 # compile in Release mode optimized but adding debug symbols, useful for profiling :
