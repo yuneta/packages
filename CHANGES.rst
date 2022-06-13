@@ -1,8 +1,9 @@
-Version 5.8.1?
+Version 5.8.1
 =============
 new utility: yclone-project
 remove cmake_minimum_required(VERSION 2.8) from all projects
 set again cmake_minimum_required(VERSION 3.0) to all projects
+Fix modbus rtu
 
 Version 5.8.0
 =============
