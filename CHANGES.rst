@@ -1,3 +1,8 @@
+Version 5.8.2
+=============
+upgrade to openssl-1.1.1o
+fix modbus multiplier as real
+
 Version 5.8.1
 =============
 new utility: yclone-project
