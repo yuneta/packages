@@ -1,4 +1,9 @@
-Version 5.8.2
+Version 5.8.4
+=============
+review (few) c_qiogate
+improve c_mqiogate, make method and key configurable
+
+Version 5.8.3
 =============
 upgrade to openssl-1.1.1o
 fix modbus multiplier as real
