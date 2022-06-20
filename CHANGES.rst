@@ -2,6 +2,7 @@ Version 5.8.4
 =============
 review (few) c_qiogate
 improve c_mqiogate, make method and key configurable
+add running-keys2 to yuneta_agent
 
 Version 5.8.3
 =============
