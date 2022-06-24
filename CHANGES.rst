@@ -1,3 +1,7 @@
+Version 5.8.5
+=============
+yuneta_agent: fix if yuneta_agent is running exit.
+
 Version 5.8.4
 =============
 review (few) c_qiogate
