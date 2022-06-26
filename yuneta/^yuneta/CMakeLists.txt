@@ -27,6 +27,7 @@ add_subdirectory(yscapec)
 add_subdirectory(ytests)
 add_subdirectory(extractjson)
 add_subdirectory(yclone-project)
+add_subdirectory(yuno_agent22)
 
 
 # compile in Release mode optimized but adding debug symbols, useful for profiling :
