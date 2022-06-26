@@ -1,3 +1,11 @@
+Version 5.8.7?
+=============
+danger functions time_in_seconds() time_in_miliseconds() etc from int64_t to uint64_t
+
+Version 5.8.6
+=============
+add "id" to yunos
+
 Version 5.8.5
 =============
 yuneta_agent: fix if yuneta_agent is running exit.
