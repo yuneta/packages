@@ -1,4 +1,4 @@
-Version 5.8.7?
+Version 5.8.7
 =============
 danger functions time_in_seconds() time_in_miliseconds() etc from int64_t to uint64_t
 
