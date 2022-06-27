@@ -1,3 +1,7 @@
+Version 5.9.0
+=============
+fix regression in --print-role
+
 Version 5.8.10
 ==============
 reduce ack timeout of qiogate to 10 seconds
