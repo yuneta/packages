@@ -1,3 +1,7 @@
+Version 5.8.9
+=============
+fix yuneta_agent22
+
 Version 5.8.8
 =============
 new yuneta_agent22 to backup of yunetacontrol
