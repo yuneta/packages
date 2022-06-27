@@ -1,3 +1,7 @@
+Version 5.8.10
+==============
+reduce ack timeout of qiogate to 10 seconds
+
 Version 5.8.9
 =============
 fix yuneta_agent22
