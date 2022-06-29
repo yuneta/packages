@@ -1,6 +1,8 @@
 Version 5.9.1?
 =============
 Add to ycommand EV_MT_STATS_ANSWER
+add rx stats to qiogate
+agent: incr pid field to 6 char
 
 Version 5.9.0
 =============
