@@ -1,7 +1,8 @@
 Version 5.9.2?
 =============
 bin2hex() char -> uint8_t
-tranger_list: Examples TIME:\n  1.seconds (minutes,hours,days,weeks,months,years)
+tranger_list,tranger_delete,tranger_migrate,tranger_search,trmsg_list
+    Examples TIME:\n  1.seconds (minutes,hours,days,weeks,months,years)
 
 Version 5.9.1
 =============
