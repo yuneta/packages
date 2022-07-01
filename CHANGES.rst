@@ -1,8 +1,11 @@
-Version 5.9.1?
+Version 5.9.1
 =============
 Add to ycommand EV_MT_STATS_ANSWER
 add rx stats to qiogate
 agent: incr pid field to 6 char
+c_qiogate: add tranger_database in ALERT
+agent: build_role_plus_id() to build yuno_private_domain
+gobj: new gobj_yuno_role_plus_id()
 
 Version 5.9.0
 =============
