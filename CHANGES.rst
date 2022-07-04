@@ -4,6 +4,7 @@ bin2hex() char -> uint8_t
 tranger_list,tranger_delete,tranger_migrate,tranger_search,trmsg_list
     Examples TIME:\n  1.seconds (minutes,hours,days,weeks,months,years)
 review 11_time_helper2.c
+yshutdown: add option to not kill logcenter/emailsender
 
 Version 5.9.1
 =============
