@@ -1,3 +1,9 @@
+Version 5.9.3
+=============
+
+Change regex.h by pcre2
+
+
 Version 5.9.2
 =============
 bin2hex() char -> uint8_t
