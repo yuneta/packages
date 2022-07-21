@@ -1,8 +1,11 @@
+Version 5.10.0
+==============
+Fixing regression
+La versión anterior falla en sfs
+
 Version 5.9.3
 =============
-
 Change regex.h by pcre2
-
 
 Version 5.9.2
 =============
