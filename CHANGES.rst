@@ -1,5 +1,7 @@
-Version 5.10.1?
+Version 5.11.0
 ==============
+external_libs/ghelpers/ginsfsm adapted to windows
+
 Cleaning #includes
 regex hxspencer repository cloned
 
