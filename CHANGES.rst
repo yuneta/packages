@@ -1,7 +1,12 @@
+Version 5.11.3?
+==============
+TODO copia cambios connex a connexs
+
 Version 5.11.2
 ==============
 Qiogate: command to trace on/off queue protocol
 deep_trace level: 1 sin timers, 2 con todo
+Connex: force drop destroying bottom gobj
 
 Version 5.11.1
 ==============
