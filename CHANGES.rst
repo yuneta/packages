@@ -1,6 +1,7 @@
 Version 5.11.2?
 ==============
 Qiogate: command to trace on/off queue protocol
+deep_trace level: 1 sin timers, 2 con todo
 
 Version 5.11.1
 ==============
