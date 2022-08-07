@@ -1,6 +1,6 @@
 Version 5.11.3?
 ==============
-TODO copia cambios connex a connexs
+sync c_connex.c/c_connexs.c
 
 Version 5.11.2
 ==============
