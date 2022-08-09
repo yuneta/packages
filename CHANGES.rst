@@ -1,7 +1,8 @@
-Version 5.11.3?
+Version 5.11.3
 ==============
 sync c_connex.c/c_connexs.c
 fix yuno_cli hgobj null when exiting
+put date in ALERTA email
 
 Version 5.11.2
 ==============
