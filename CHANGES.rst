@@ -1,6 +1,6 @@
 Version 5.11.4?
 ==============
-MQIOGate new commands, new methods to distribuite
+MQIOGate new commands, new methods to distribute
 command-yuno option recursive: find the command in childs too
 
 Version 5.11.3
