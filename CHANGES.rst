@@ -1,3 +1,8 @@
+Version 5.11.4?
+==============
+MQIOGate new commands, new methods to distribuite
+command-yuno option recursive: find the command in childs too
+
 Version 5.11.3
 ==============
 sync c_connex.c/c_connexs.c
