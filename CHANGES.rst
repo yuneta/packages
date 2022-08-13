@@ -2,7 +2,8 @@ Version 5.11.4?
 ==============
 MQIOGate new commands, new methods to distribute
 command-yuno option recursive: find the command in childs too
-agent: include required_services in configuration, increase to 2000 the clients
+agent: include required_services in configuration, increase to 2000 clients
+emailsender: increase to 2000 clients
 
 Version 5.11.3
 ==============
