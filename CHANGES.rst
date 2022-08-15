@@ -9,6 +9,7 @@ agent: save_pid_in_file() moved to c_yuno.c
 entry_point: increase temporal environment memory
 quita audit a agent22
 quita emailsender del yshutdown no_kill_system, tiene fallos internos
+qiogate: drop_on_timeout_ack == 2 exit(-1)
 
 Version 5.11.3
 ==============
