@@ -8,6 +8,7 @@ yuneta_environment:new yuneta_bin_file() yuneta_bin_dir()
 agent: save_pid_in_file() moved to c_yuno.c
 entry_point: increase temporal environment memory
 quita audit a agent22
+quita emailsender del yshutdown no_kill_system, tiene fallos internos
 
 Version 5.11.3
 ==============
