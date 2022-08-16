@@ -2,8 +2,8 @@ Version 5.11.4?
 ==============
 MQIOGate new commands, new methods to distribute
 command-yuno option recursive: find the command in childs too
-agent: include required_services in configuration, increase to 2000 clients
-emailsender: increase to 2000 clients
+agent: include required_services in configuration, increase to 300 clients
+emailsender: increase to 300 clients
 yuneta_environment:new yuneta_bin_file() yuneta_bin_dir()
 agent: save_pid_in_file() moved to c_yuno.c
 entry_point: increase temporal environment memory
