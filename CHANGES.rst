@@ -12,6 +12,7 @@ quita emailsender del yshutdown no_kill_system, tiene fallos internos
 qiogate: drop_on_timeout_ack == 2 exit(-1)
 log ALERTA Encolamiento
 restaura save_pid_in_file() en yuneta_agent, quitalo cuando entre la 5.11.4 en los yunos
+tcp0/1 don't return on "uv_req_write ALREADY ACTIVE"
 
 Version 5.11.3
 ==============
