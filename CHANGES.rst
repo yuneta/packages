@@ -1,4 +1,8 @@
-Version 5.11.4?
+Version 5.12.0
+==============
+tag version
+
+Version 5.11.4
 ==============
 MQIOGate new commands, new methods to distribute
 command-yuno option recursive: find the command in childs too
