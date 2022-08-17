@@ -1,3 +1,7 @@
+Version 5.12.2?
+==============
+c_agent: save yuno.pid in same directory as c_yuno
+
 Version 5.12.1
 ==============
 set events/states in tcp0 like tcp1, admit EV_DROP in WAIT_CONNECTED/WAIT_DISCONNECTED
