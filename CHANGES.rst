@@ -1,3 +1,7 @@
+Version 5.12.1?
+==============
+set events/states in tcp0 like tcp1, admit EV_DROP in WAIT_CONNECTED/WAIT_DISCONNECTED
+
 Version 5.12.0
 ==============
 tag version
