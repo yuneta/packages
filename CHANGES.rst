@@ -2,6 +2,7 @@ Version 5.12.1?
 ==============
 set events/states in tcp0 like tcp1, admit EV_DROP in WAIT_CONNECTED/WAIT_DISCONNECTED
 add event EV_DISCONNECTED to ST_DISCONNECTED state, collateral of above change?
+ystats/ycommand add option to print with metadata (now default is without metadata)
 
 Version 5.12.0
 ==============
