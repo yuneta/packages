@@ -1,6 +1,8 @@
-Version 5.12.2?
+Version 5.12.2
 ==============
 c_agent: save yuno.pid in same directory as c_yuno
+emailsender: "disable_alarm_emails" persistent attr and command
+c_qiogate: reviewed with a big testing, same behaviour as georeverse
 
 Version 5.12.1
 ==============
