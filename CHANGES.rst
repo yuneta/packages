@@ -1,3 +1,8 @@
+Version 5.12.4?
+==============
+Tcp: read FAILED: seems like already disconnected
+cli: comment at the end
+
 Version 5.12.3
 ==============
 fix typo gcflag_no_check_ouput_events by gcflag_no_check_output_events
