@@ -1,3 +1,8 @@
+Version 5.12.3?
+==============
+fix typo gcflag_no_check_ouput_events by gcflag_no_check_output_events
+fix gcflag_ignore_unkwnow_attrs typo
+
 Version 5.12.2
 ==============
 c_agent: save yuno.pid in same directory as c_yuno
