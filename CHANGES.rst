@@ -1,3 +1,7 @@
+Version 6.0.0?
+=============
+Set error UV_ETIMEDOUT as log_info("Timeout keep-alive")
+
 Version 5.12.4
 ==============
 Tcp: read FAILED: seems like already disconnected
