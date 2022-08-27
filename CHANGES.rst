@@ -1,7 +1,8 @@
-Version 5.12.4?
+Version 5.12.4
 ==============
 Tcp: read FAILED: seems like already disconnected
 cli: comment at the end
+Tcp0,Tcp1 changed flow of do_close/set_disconnected
 
 Version 5.12.3
 ==============
