@@ -1,4 +1,4 @@
-Version 6.0.0?
+Version 6.0.0
 =============
 Set error UV_ETIMEDOUT as log_info("Timeout keep-alive")
 
