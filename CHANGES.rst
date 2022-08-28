@@ -1,5 +1,6 @@
 Version 6.0.0
 =============
+release 6.0.0 ready, reliable managing of  persistent queues.
 Set error UV_ETIMEDOUT as log_info("Timeout keep-alive")
 Set message "ALERTA Encolamiento" in attributes as "alert_message"
 
