@@ -1,6 +1,7 @@
 Version 6.0.0
 =============
 Set error UV_ETIMEDOUT as log_info("Timeout keep-alive")
+Set message "ALERTA Encolamiento" in attributes as "alert_message"
 
 Version 5.12.4
 ==============
