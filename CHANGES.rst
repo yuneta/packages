@@ -1,3 +1,7 @@
+Version 6.0.1?
+=============
+ycommand: comment at the end
+
 Version 6.0.0
 =============
 release 6.0.0 ready, reliable managing of  persistent queues.
