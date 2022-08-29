@@ -1,4 +1,4 @@
-Version 6.0.2?
+Version 6.0.2
 =============
 DANGER gobj_publish_event() return sent events instead of sum of event returns
 
