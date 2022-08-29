@@ -1,6 +1,9 @@
 Version 6.0.1?
 =============
 ycommand: comment at the end
+email alert: add owner
+logcenter: add onwer to summary
+tcp0/tcp1: log write fails
 
 Version 6.0.0
 =============
