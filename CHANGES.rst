@@ -2,9 +2,10 @@ Version 6.0.1?
 =============
 ycommand: comment at the end
 email alert: add owner
-logcenter: add onwer to summary
+logcenter: add owner to summary
 tcp0/tcp1: log write fails
 c_yuno: call gobj_set_deep_tracing() only if "deep_trace" is true
+DANGER: tcp0/tcp1: set same logical (do_close) in write fails like read fails
 
 Version 6.0.0
 =============
