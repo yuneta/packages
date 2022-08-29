@@ -4,6 +4,7 @@ ycommand: comment at the end
 email alert: add owner
 logcenter: add onwer to summary
 tcp0/tcp1: log write fails
+c_yuno: call gobj_set_deep_tracing() only if "deep_trace" is true
 
 Version 6.0.0
 =============
