@@ -1,6 +1,8 @@
-Version 6.0.2
+Version 6.1.0
 =============
 DANGER gobj_publish_event() return sent events instead of sum of event returns
+Remove all -> return gobj_publish_event(); by gobj_publish_event(); return;
+Document gobj_publish_event process.
 
 Version 6.0.1
 =============
