@@ -1,8 +1,9 @@
-Version 6.2.0?
+Version 6.2.0
 =============
 glogger: new error message type: MSGSET_QUEUE_ALARM
 logcenter: configurable restart of yuneta on queue alarms
-fix error in pty_sync_spawn()
+fix error in pty_sync_spawn(), change exit by return
+agent: info "yuneta_agent starting: node uuid"
 
 Version 6.1.0
 =============
