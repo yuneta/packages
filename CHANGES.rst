@@ -1,3 +1,8 @@
+Version 6.2.0?
+=============
+glogger: new error message type: MSGSET_QUEUE_ALARM
+logcenter: configurable restart on queue alarms
+
 Version 6.1.0
 =============
 DANGER gobj_publish_event() return sent events instead of sum of event returns
