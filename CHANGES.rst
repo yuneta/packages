@@ -1,3 +1,7 @@
+Version 6.2.1?
+=============
+c_ievent_srv: More info in "Authentication rejected" error log
+
 Version 6.2.0
 =============
 glogger: new error message type: MSGSET_QUEUE_ALARM
