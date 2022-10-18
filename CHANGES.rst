@@ -3,6 +3,7 @@ Version 6.2.1
 c_ievent_srv: More info in "Authentication rejected" error log
 c_resource2: gobj_create_resource() add 'update' option, and deep review
 c_mqtt update like sfs
+review msglog*.h, add msglog_iot.h (define MSGSET_MQTT_ERROR)
 
 Version 6.2.0
 =============
