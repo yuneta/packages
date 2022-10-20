@@ -1,3 +1,7 @@
+Version 6.2.2
+=============
+fix include mqtt
+
 Version 6.2.1
 =============
 c_ievent_srv: More info in "Authentication rejected" error log
