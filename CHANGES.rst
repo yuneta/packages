@@ -1,3 +1,7 @@
+Version 6.2.3?
+=============
+CMakeFiles: add -DNOT_INCLUDE_LIBUNWIND=1 if not MATCHES "x86_64"
+
 Version 6.2.2
 =============
 fix include mqtt
