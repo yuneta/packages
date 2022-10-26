@@ -2,6 +2,8 @@ Version 6.2.3?
 =============
 CMakeFiles: add -DNOT_INCLUDE_LIBUNWIND=1 if not MATCHES "x86_64"
 kw_get_real()/kw_get_int(): avoid error "path MUST BE..." not need to use KW_WILD_NUMBER
+msg_set_msg_type(): If it's a metadata key then only admit the message inter-event msg_type_list
+new: is_metadata_key()/is_private_key()
 
 Version 6.2.2
 =============
