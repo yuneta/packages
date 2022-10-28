@@ -5,6 +5,8 @@ kw_get_real()/kw_get_int(): avoid error "path MUST BE..." not need to use KW_WIL
 msg_set_msg_type(): If it's a metadata key then only admit the message inter-event msg_type_list
 new: is_metadata_key()/is_private_key()
 add __command__ to iev msg_type_list
+c_authz: get username of "email" instead of "preferred_username"
+c_authz: check email_verified field
 
 Version 6.2.2
 =============
