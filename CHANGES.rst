@@ -7,6 +7,7 @@ new: is_metadata_key()/is_private_key()
 add __command__ to iev msg_type_list
 c_authz: get username of "email" instead of "preferred_username"
 c_authz: check email_verified field
+add info-os command to __yuno__
 
 Version 6.2.2
 =============
