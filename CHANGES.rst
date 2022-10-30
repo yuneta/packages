@@ -1,4 +1,4 @@
-Version 6.3.0
+Version 6.3.0?
 =============
 CMakeFiles: add -DNOT_INCLUDE_LIBUNWIND=1 if not MATCHES "x86_64"
 kw_get_real()/kw_get_int(): avoid error "path MUST BE..." not need to use KW_WILD_NUMBER
@@ -8,6 +8,7 @@ add __command__ to iev msg_type_list
 c_authz: get username of "email" instead of "preferred_username"
 c_authz: check email_verified field
 add info-os command to __yuno__
+increase memory to yuno_cli
 
 Version 6.2.2
 =============
