@@ -13,7 +13,7 @@ new project: fork of w2ui
 
 Add "Sec-Websocket-Protocol" to websocket handshake
 Increase history file to 100000 lines
-
+controlcenter: delete jwt from list-agents command response
 
 Version 6.2.2
 =============
