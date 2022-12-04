@@ -15,6 +15,11 @@ Add "Sec-Websocket-Protocol" to websocket handshake
 Increase history file to 100000 lines
 controlcenter: delete jwt from list-agents command response
 
+c_ievent_cli.c and ievent.js
+// 4 Dic 2022, WARNING until 6.2.2 version was used gobj_find_unique_gobj(),
+// improving security: only gobj services must be accessed externally,
+// may happen collateral damages
+
 Version 6.2.2
 =============
 fix include mqtt
