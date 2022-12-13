@@ -1,6 +1,7 @@
 Version 6.3.3?
 =============
-In entry_point.c ignore signal SIG_IGN (provoke Timeout in bash)
+In entry_point.c ignore signal SIG_IGN (provoke Timeout in bash?)
+Found the Timeout error, in c_ybatch.c
 
 Version 6.3.2
 =============
