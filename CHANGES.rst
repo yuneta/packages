@@ -1,7 +1,7 @@
 Version 6.3.2?
 =============
 Trace error in on_write_cb() fail (c_pty.c agent/agent22)
-
+return if "uv_req_write ALREADY ACTIVE" in c_pty.c, TODO enqueue or use dynamic uv_req_write
 
 Version 6.3.1
 =============
