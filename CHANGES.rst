@@ -1,3 +1,8 @@
+Version 6.3.2?
+=============
+Trace error in on_write_cb() fail (c_pty.c agent/agent22)
+
+
 Version 6.3.1
 =============
 change as_unique by as_service in ystats,ycommand,ytests,yuno_agent,yuno_cli en agent_secure_config/agent_insecure_config json configs
