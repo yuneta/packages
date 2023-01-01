@@ -21,13 +21,13 @@ add_subdirectory(yuno-skeleton)
 add_subdirectory(yuno_agent)
 add_subdirectory(yuno_cli)
 add_subdirectory(ygclass-rename)
-# add_subdirectory(yuno_master)
 add_subdirectory(tests-y)
 add_subdirectory(yscapec)
 add_subdirectory(ytests)
 add_subdirectory(extractjson)
 add_subdirectory(yclone-project)
 add_subdirectory(yuno_agent22)
+add_subdirectory(ymake-skeleton)
 
 
 # compile in Release mode optimized but adding debug symbols, useful for profiling :

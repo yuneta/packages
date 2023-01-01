@@ -252,6 +252,7 @@ y en ``/proc/sys/kernel/core_uses_pid`` poner 0 si no quieres que se añada el p
         git clone https://github.com/yuneta/yclone-project /yuneta/development/yuneta/^yuneta/yclone-project
         git clone https://github.com/yuneta/yuno_agent22 /yuneta/development/yuneta/^yuneta/yuno_agent22
         git clone https://github.com/yuneta/w2ui /yuneta/development/yuneta/^yuneta/w2ui
+        git clone https://github.com/yuneta/ymake-skeleton /yuneta/development/yuneta/^yuneta/ymake-skeleton
 
     * Instalación de **Yuno-store** ::
 
