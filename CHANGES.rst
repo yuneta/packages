@@ -1,6 +1,7 @@
 Version 6.3.4?
 =============
 Add clang to install-yuneta-dependencies
+Add new utility: ymake-sleleton, make a skeleton from a project
 
 Version 6.3.3
 =============
