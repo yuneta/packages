@@ -1,7 +1,8 @@
 Version 6.3.4?
 =============
 Add clang to install-yuneta-dependencies
-Add new utility: ymake-sleleton, make a skeleton from a project
+Add new utility: ymake-skeleton, make a skeleton from a project
+gobj_publish_event(): the publisher can make kw shared adding to kw `__share_kw__`
 
 Version 6.3.3
 =============
