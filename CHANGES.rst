@@ -3,6 +3,15 @@ Version 6.3.4?
 Add clang to install-yuneta-dependencies
 Add new utility: ymake-skeleton, make a skeleton from a project
 gobj_publish_event(): the publisher can make kw shared adding to kw `__share_kw__`
+yuno_cli,yuneta: new keyshorts (useful for Macs that haven't keypad keys)
+
+    Scroll Line up         -> Ctrl+Prev.Page, Alt+Up
+    Scroll Line down       -> Ctrl+Next.Page, Alt+Down
+    Scroll Page up         -> Prev.Page, Ctrl+Up
+    Scroll Page down       -> Next.Page, Ctrl+Down
+    Scroll Top             -> Ctrl+Home, Ctrl+Alt+Up
+    Scroll Bottom          -> Ctrl+End, Ctrl+Alt+Down
+
 
 Version 6.3.3
 =============
