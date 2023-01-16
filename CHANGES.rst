@@ -12,6 +12,9 @@ yuno_cli,yuneta: new keyshorts (useful for Macs that haven't keypad keys)
     Scroll Top             -> Ctrl+Home, Ctrl+Alt+Up
     Scroll Bottom          -> Ctrl+End, Ctrl+Alt+Down
 
+yuno_cli: increase "history_max_len" to 200000 lines
+
+fix c_prot_modbus_master
 
 Version 6.3.3
 =============
