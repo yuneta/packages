@@ -1,5 +1,10 @@
 Version 6.3.4?
 =============
+
+TODO antes de liberar version, renombra estos dos projectos:
+    - ygclass-rename    -> yclone-gclass
+    - ytestconfig       -> ycheckjson
+
 Add clang to install-yuneta-dependencies
 Add new utility: ymake-skeleton, make a skeleton from a project
 gobj_publish_event(): the publisher can make kw shared adding to kw `__share_kw__`
