@@ -176,12 +176,14 @@ excepto en la fase de instalación.
 
 * Para cambiar el core dump filename
 
-Editar el fichero ``/etc/sysctl.conf`` y añadir ``kernel.core_pattern = core.%e``
+Editar el fichero ``/etc/sysctl.conf`` y añadir ::
 
-Relanzar con ``sysctl -p``
+    kernel.core_uses_pid=0
+    kernel.core_pattern = /var/crash/core.%e
 
-O también (?) añadir a ``/proc/sys/kernel/core_pattern`` la línea ``core.%e``
-y en ``/proc/sys/kernel/core_uses_pid`` poner 0 si no quieres que se añada el pid.
+Relanzar con::
+
+    sysctl -p
 
 * Para poner la zona horaria::
 
