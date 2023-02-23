@@ -23,6 +23,10 @@ fix c_prot_modbus_master
 
 new __root__ command: "write-json"
 
+several files: check the return of parse_http_url()
+
+tcp_s0/tcp_s1 attribute 'url' as writable and persistent
+
 Version 6.3.3
 =============
 In entry_point.c ignore signal SIG_IGN (provoke Timeout in bash?)
