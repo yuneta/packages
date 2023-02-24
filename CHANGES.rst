@@ -27,6 +27,8 @@ several files: check the return of parse_http_url()
 
 tcp_s0/tcp_s1 attribute 'url' as writable and persistent
 
+Fix CMakeLists.txt, they don't adding -Wall in linux
+
 Version 6.3.3
 =============
 In entry_point.c ignore signal SIG_IGN (provoke Timeout in bash?)
