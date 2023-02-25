@@ -5,7 +5,7 @@ TODO antes de liberar version, renombra estos dos projectos ???:
     - ygclass-rename    -> yclone-gclass
     - ytestconfig       -> ycheckjson
 
-Update jannson to 2.14
+Update jansson to 2.14, using cmake instead of configure
 
 
 Version 6.3.4
