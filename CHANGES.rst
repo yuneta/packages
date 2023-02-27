@@ -7,6 +7,8 @@ TODO antes de liberar version, renombra estos dos projectos ???:
 
 Update jansson to 2.14, using cmake instead of configure
 
+gobj.c: define gobj_exec_private_method as gobj_local_method
+
 
 Version 6.3.4
 =============
