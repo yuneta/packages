@@ -1,14 +1,13 @@
-Version 6.3.5?
+Version 6.3.5
 =============
 
-TODO antes de liberar version, renombra estos dos projectos ???:
-    - ygclass-rename    -> yclone-gclass
-    - ytestconfig       -> ycheckjson
+Change name project: ygclass-rename -> yclone-gclass
 
 Update jansson to 2.14, using cmake instead of configure
 
 gobj.c: define gobj_exec_private_method as gobj_local_method
 
+c_agent.c: fix bug port of public service not updated
 
 Version 6.3.4
 =============

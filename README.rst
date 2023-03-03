@@ -245,7 +245,7 @@ Relanzar con::
         git clone https://github.com/yuneta/yuno_agent /yuneta/development/yuneta/^yuneta/yuno_agent
         git clone https://github.com/yuneta/yuno_cli /yuneta/development/yuneta/^yuneta/yuno_cli
         git clone https://github.com/yuneta/yuno-skeleton /yuneta/development/yuneta/^yuneta/yuno-skeleton
-        git clone https://github.com/yuneta/ygclass-rename /yuneta/development/yuneta/^yuneta/ygclass-rename
+        git clone https://github.com/yuneta/yclone-gclass /yuneta/development/yuneta/^yuneta/yclone-gclass
         git clone https://github.com/yuneta/docs /yuneta/development/yuneta/^yuneta/docs
         git clone https://github.com/yuneta/yscapec /yuneta/development/yuneta/^yuneta/yscapec
         git clone https://github.com/yuneta/mxgraph-js.git /yuneta/development/yuneta/^yuneta/mxgraph-js
