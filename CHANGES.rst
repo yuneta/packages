@@ -1,3 +1,7 @@
+Version 6.3.6
+=============
+fix gobj.c, subscriptions: no protegido contra borrados (ahora protegido contra el borrado de un subs)
+
 Version 6.3.5
 =============
 
