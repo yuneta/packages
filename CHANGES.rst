@@ -1,3 +1,7 @@
+Version 6.3.7?
+=============
+add tx queue to c_pty of agent/agent22
+
 Version 6.3.6
 =============
 fix gobj.c, subscriptions: no protegido contra borrados (ahora protegido contra el borrado de un subs)
