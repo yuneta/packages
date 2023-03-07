@@ -1,6 +1,7 @@
 Version 6.3.7?
 =============
 add tx queue to c_pty of agent/agent22
+fix global trace states
 
 Version 6.3.6
 =============
