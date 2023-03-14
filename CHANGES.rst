@@ -2,6 +2,8 @@ Version 6.3.7?
 =============
 add tx queue to c_pty of agent/agent22
 fix global trace states
+fix install-yuneta-dependencies
+controlcenter: in list-agents inform of role and version
 
 Version 6.3.6
 =============
