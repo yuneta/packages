@@ -1,9 +1,11 @@
-Version 6.3.7?
+Version 6.3.7
 =============
 add tx queue to c_pty of agent/agent22
 fix global trace states
 fix install-yuneta-dependencies
 controlcenter: in list-agents inform of role and version
+c_connex.c: "when removing a url in connex the yuno can crash, reset idx_dst"
+fix bug of 31_tr_treedb.c: deleting node not deleting instance
 
 Version 6.3.6
 =============
