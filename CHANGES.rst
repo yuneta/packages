@@ -1,3 +1,10 @@
+Version 6.3.8?
+=============
+Add 'send_summary_disabled' attribute to logcenter
+Add send trace to modbus
+Priorice write in modbus
+add yuneta_agent22 to deploy_remote_agent.sh
+
 Version 6.3.7
 =============
 add tx queue to c_pty of agent/agent22
