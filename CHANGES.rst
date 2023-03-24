@@ -4,6 +4,14 @@ Add 'send_summary_disabled' attribute to logcenter
 Add send trace to modbus
 Priorice write in modbus
 add yuneta_agent22 to deploy_remote_agent.sh
+glogger.c: fix va_copy/va_end
+
+New gobj api:
+    gobj_add_trace_filter()
+    gobj_remove_trace_filter()
+    gobj_get_trace_filter()
+    kw_find_str_in_list()
+    log_exist_handler()
 
 Version 6.3.7
 =============
