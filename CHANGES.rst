@@ -1,15 +1,20 @@
-Version 6.3.8?
+Version 6.4.0
 =============
 Add 'send_summary_disabled' attribute to logcenter
 Add send trace to modbus
 Priorice write in modbus
 add yuneta_agent22 to deploy_remote_agent.sh
 glogger.c: fix va_copy/va_end
+new commands in __yuno__: set-trace-filter, get-trace-filter
 
-New gobj api:
-    gobj_add_trace_filter()
-    gobj_remove_trace_filter()
-    gobj_get_trace_filter()
+New api:
+    With these trace filter functions you can trace the levels of a gclass
+    but only those gobjs that match the attributes being filtering.
+
+        gobj_add_trace_filter()
+        gobj_remove_trace_filter()
+        gobj_get_trace_filter()
+
     kw_find_str_in_list()
     log_exist_handler()
 
