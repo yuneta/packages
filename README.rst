@@ -179,7 +179,13 @@ excepto en la fase de instalación.
 Editar el fichero ``/etc/sysctl.conf`` y añadir ::
 
     kernel.core_uses_pid=0
-    kernel.core_pattern = /var/crash/core.%e
+    kernel.core_pattern=/var/crash/core.%e
+
+Editar el fichero ``/etc/security/limits.conf`` y añadir ::
+
+    yuneta soft core unlimited
+    yuneta hard core unlimited
+
 
 Relanzar con::
 
