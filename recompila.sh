@@ -3,6 +3,9 @@
 mkdir -p ~/bin/
 cp -u /yuneta/development/yuneta/^yuneta/packages/yuneta-pull-from-github.sh ~/bin/
 
+#  Exit immediately if a command exits with a non-zero status.
+set -e
+
 ##########################################
 #       external-libs
 ##########################################
@@ -14,8 +17,6 @@ cd /yuneta/development/yuneta/^gobj-ecosistema/external-libs
 ##########################################
 #       gobj-ecosistema
 ##########################################
-#  Exit immediately if a command exits with a non-zero status.
-set -e
 
 cd /yuneta/development/yuneta/^gobj-ecosistema/ghelpers
 rm -rf build; mkdir build
