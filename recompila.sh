@@ -12,7 +12,6 @@ set -e
 cd /yuneta/development/yuneta/^gobj-ecosistema/external-libs
 ./extrae.sh
 ./configure-libs.sh
-./install-libs.sh
 
 ##########################################
 #       gobj-ecosistema
